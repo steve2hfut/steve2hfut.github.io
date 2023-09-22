@@ -6,7 +6,7 @@
   <link href="https://steve2hfut.github.io/atom.xml" rel="self"/>
   
   <link href="https://steve2hfut.github.io/"/>
-  <updated>2023-09-22T00:35:50.427Z</updated>
+  <updated>2023-09-22T14:55:59.450Z</updated>
   <id>https://steve2hfut.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MD_Learn_1</title>
+    <link href="https://steve2hfut.github.io/2023/09/22/md%E5%AD%A6%E4%B9%A01/"/>
+    <id>https://steve2hfut.github.io/2023/09/22/md%E5%AD%A6%E4%B9%A01/</id>
+    <published>2023-09-22T14:13:32.000Z</published>
+    <updated>2023-09-22T14:55:59.450Z</updated>
+    
+    <content type="html"><![CDATA[<p>一些简单的实列练习</p><span id="more"></span><h2 id="Markdown-标题"><a href="#Markdown-标题" class="headerlink" title="Markdown 标题"></a>Markdown 标题</h2><h5 id="Markdown-标题有两种格式。"><a href="#Markdown-标题有两种格式。" class="headerlink" title="Markdown 标题有两种格式。"></a>Markdown 标题有两种格式。</h5><p>1.使用 &#x3D; 和 - 标记一级和二级标题<br>测试（用&#96;&#96;&#96;成对来显示代码块）</p><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">一级标题</span><br><span class="line">=======</span><br><span class="line">二级</span><br><span class="line">====</span><br></pre></td></tr></table></figure></div><p>2.使用 # 号可表示 1-6 级标题，<br>一级标题对应一个 # 号，<br>二级标题对应两个 # 号，最多可到六级。</p><h2 id="Markdown-段落"><a href="#Markdown-段落" class="headerlink" title="Markdown 段落"></a>Markdown 段落</h2><p>1.段落的换行是使用两个以上空格加上回车。  </p><p>测试<br>你好世界我的朋友<br>你好<br>世界</p><p>2.使用空行来重启一个段落。（用这个方法显示时会空一行）  </p><p>测试<br>你好</p><p>世界</p><p>我的</p><p>朋友</p><h2 id="Markdown-字体"><a href="#Markdown-字体" class="headerlink" title="Markdown 字体"></a>Markdown 字体</h2><p>1.斜体</p><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">*hello*</span><br><span class="line">_hello_</span><br></pre></td></tr></table></figure></div><p>实际效果<br>如下<br><em>hello</em><br><em>hello</em></p><p>2.粗体<br>双**号，双__号</p><p>3.粗斜体<br>则三个即可  </p><h2 id="Markdown-分割线"><a href="#Markdown-分割线" class="headerlink" title="Markdown 分割线"></a>Markdown 分割线</h2><p>用***或—-连成线即可</p><h2 id="Markdown-删除线"><a href="#Markdown-删除线" class="headerlink" title="Markdown 删除线"></a>Markdown 删除线</h2><p>两边加~~即可</p><p><del>试试</del></p><h2 id="Markdown-下滑线"><a href="#Markdown-下滑线" class="headerlink" title="Markdown 下滑线"></a>Markdown 下滑线</h2><p>用HTML格式来实现</p><p><u>试试</u></p><h2 id="Markdown-脚注"><a href="#Markdown-脚注" class="headerlink" title="Markdown 脚注"></a>Markdown 脚注</h2><p>hello [^let me try].</p><p>[^let me try]:no impossible</p><p>可能这个页面不支持</p><h2 id="来源"><a href="#来源" class="headerlink" title="来源"></a>来源</h2><p>学习于<br><a class="link"   href="https://www.runoob.com/markdown/md-paragraph.html" >菜鸟教程 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;一些简单的实列练习&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="MD" scheme="https://steve2hfut.github.io/tags/MD/"/>
+    
+  </entry>
   
   <entry>
     <title>数控-铣床</title>
