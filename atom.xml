@@ -3,11 +3,11 @@
   <title>blog</title>
   
   <subtitle>just</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://steve2hfut.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://steve2hfut.github.io/"/>
   <updated>2023-09-22T00:35:50.427Z</updated>
-  <id>http://example.com/</id>
+  <id>https://steve2hfut.github.io/</id>
   
   <author>
     <name>steve</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>数控-铣床</title>
-    <link href="http://example.com/2023/09/17/%E6%95%B0%E6%8E%A7-%E9%93%A3%E5%BA%8A/"/>
-    <id>http://example.com/2023/09/17/%E6%95%B0%E6%8E%A7-%E9%93%A3%E5%BA%8A/</id>
+    <link href="https://steve2hfut.github.io/2023/09/17/%E6%95%B0%E6%8E%A7-%E9%93%A3%E5%BA%8A/"/>
+    <id>https://steve2hfut.github.io/2023/09/17/%E6%95%B0%E6%8E%A7-%E9%93%A3%E5%BA%8A/</id>
     <published>2023-09-17T08:13:32.000Z</published>
     <updated>2023-09-22T00:35:50.427Z</updated>
     
@@ -36,7 +36,7 @@
     
     
     
-    <category term="精工实习" scheme="http://example.com/tags/%E7%B2%BE%E5%B7%A5%E5%AE%9E%E4%B9%A0/"/>
+    <category term="精工实习" scheme="https://steve2hfut.github.io/tags/%E7%B2%BE%E5%B7%A5%E5%AE%9E%E4%B9%A0/"/>
     
   </entry>
   
