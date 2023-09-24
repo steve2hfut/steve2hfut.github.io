@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>MD_Learn_1</title>
-    <url>/2023/09/22/md%E5%AD%A6%E4%B9%A01/</url>
+    <url>/2023/09/22/md1/</url>
     <content><![CDATA[<p>一些简单的实列练习</p>
 <span id="more"></span>
 <h2 id="Markdown-标题"><a href="#Markdown-标题" class="headerlink" title="Markdown 标题"></a>Markdown 标题</h2><h5 id="Markdown-标题有两种格式。"><a href="#Markdown-标题有两种格式。" class="headerlink" title="Markdown 标题有两种格式。"></a>Markdown 标题有两种格式。</h5><p>1.使用 &#x3D; 和 - 标记一级和二级标题<br>测试（用&#96;&#96;&#96;成对来显示代码块）</p>
@@ -28,6 +28,117 @@
 <h2 id="Markdown-脚注"><a href="#Markdown-脚注" class="headerlink" title="Markdown 脚注"></a>Markdown 脚注</h2><p>hello [^let me try].</p>
 <p>[^let me try]:no impossible</p>
 <p>可能这个页面不支持</p>
+<h2 id="来源"><a href="#来源" class="headerlink" title="来源"></a>来源</h2><p>学习于<br><a class="link"   href="https://www.runoob.com/markdown/md-paragraph.html" >菜鸟教程 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+]]></content>
+      <tags>
+        <tag>MD</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>MD_Learn_2</title>
+    <url>/2023/09/23/md_2%20-%20/</url>
+    <content><![CDATA[<p>一些简单的实列练习</p>
+<span id="more"></span>
+<p>继续学习markdown…..</p>
+<h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><ol>
+<li><p>无序列表用（*），加号（+），减号（-）<br>  例如</p>
+<pre><code>- 你好
+- 你好的
+（一定得记得加空格）
+</code></pre>
+<p>（<strong>记得正文前面加空格</strong>）</p>
+</li>
+</ol>
+<p>效果  </p>
+<ul>
+<li>你好</li>
+<li>你好的<ul>
+<li>你好<ul>
+<li>你好</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ol start="2">
+<li><p>有序数列<br>用数字加 . 来写<br>例如  </p>
+<pre><code> 1. 你好
+ 2. 欢迎
+</code></pre>
+</li>
+</ol>
+<p>效果  </p>
+<ol>
+<li>你好</li>
+<li>欢迎<ol>
+<li>再次欢迎</li>
+</ol>
+</li>
+</ol>
+<h2 id="区块引用"><a href="#区块引用" class="headerlink" title="区块引用"></a>区块引用</h2><p>用&gt;来表示</p>
+<pre><code>&gt; 应用  
+&gt; 永远
+</code></pre>
+<p>效果  </p>
+<blockquote>
+<p>应用<br>永远  </p>
+</blockquote>
+<h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><ol>
+<li><p>段落代码<br>段落上的代码用`内容`表示<br>效果<br><code>int main()</code><br><code>内容</code>  </p>
+</li>
+<li><p>代码块<br>建议用`&#96;&#96;  `&#96;&#96;来包裹<br>效果  </p>
+<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">int main()&#123;</span><br><span class="line">  int a=9;</span><br><span class="line">  a++;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure></div></li>
+</ol>
+<h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><pre><code>[链接名称](链接地址)
+
+或者
+
+&lt;链接地址&gt;  
+</code></pre>
+<p>测试<br>这是<a class="link"   href="https://www.runoob.com/" >菜鸟教程 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的网址<br><a class="link"   href="https://www.runoob.com/" >https://www.runoob.com <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>  </p>
+<h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><p>图片和链接的表示很像只需在前面加一个!</p>
+<pre><code>![选填 alt 属性文本](网址或图片地址&quot;选填 图片描述&quot;)
+</code></pre>
+<p>效果<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/imag/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.png"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://pic.imgdb.cn/item/64fa70d0661c6c8e5482c17f.jpg"
+                     
+                >  </p>
+<p>一般情况下md不能指定图片的大小尺寸<br>但可用&lt;img&gt;来设置<br><img  decoding="async" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://pic.imgdb.cn/item/64fa70d0661c6c8e5482c17f.jpg"
+                      width="50%"
+                >  </p>
+<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;img decoding=&quot;async&quot; src=&quot;https://pic.imgdb.cn/item/64fa70d0661c6c8e5482c17f.jpg&quot; width=&quot;50%&quot;&gt;  </span><br></pre></td></tr></table></figure></div>
+
+<h2 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h2><p>实例  </p>
+<table>
+<thead>
+<tr>
+<th>表头</th>
+<th>表头</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>单元格</td>
+<td>单元格</td>
+</tr>
+<tr>
+<td>单元格</td>
+<td>单元格</td>
+</tr>
+</tbody></table>
+<p>代码  </p>
+<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">|  表头   | 表头  |</span><br><span class="line">|  ----  | ----  |</span><br><span class="line">| 单元格  | 单元格 |</span><br><span class="line">| 单元格  | 单元格 |</span><br></pre></td></tr></table></figure></div>
+<p>测试  </p>
+<p>$$<br>\begin{Bmatrix}<br>   a &amp; b \<br>   c &amp; d<br>\end{Bmatrix}<br>$$<br>$$<br>\begin{CD}<br>   A @&gt;3&gt;&gt; B \<br>@VbVV @AAcA \<br>   C @&#x3D; D<br>\end{CD}<br>$$</p>
 <h2 id="来源"><a href="#来源" class="headerlink" title="来源"></a>来源</h2><p>学习于<br><a class="link"   href="https://www.runoob.com/markdown/md-paragraph.html" >菜鸟教程 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 ]]></content>
       <tags>
