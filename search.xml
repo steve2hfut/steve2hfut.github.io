@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>机械动力学</title>
+    <url>/2023/09/17/jixiedongli/</url>
+    <content><![CDATA[<h4 id="拉格朗日"><a href="#拉格朗日" class="headerlink" title="拉格朗日"></a>拉格朗日</h4><p>1788年拉格朗日出版的《分析力学》是世界上最早的一本分析力学的著作。 分析力学是建立在虚功原理和达朗贝尔原理的基础上。 两者结合，可得到动力学普遍方程，从而导出分析力学各种系统的动力方程。 1760～1761年，拉格朗日用这两个原理和理想约束结合，得到了动力学的普遍方程，几乎所有的分析力学的动力学方程都是从这个方程直接或间接导出的。  </p>
+<h4 id="建立机械系统动力学模型的方法"><a href="#建立机械系统动力学模型的方法" class="headerlink" title="建立机械系统动力学模型的方法"></a>建立机械系统动力学模型的方法</h4><ol>
+<li>机械系统动力学理论建模 对系统的内部结构、尺寸、材料的性能参数（如质量、刚度、阻尼等）、连接条件和约束条件均有详尽而又足够的了解，则可利用近代结构动力学或其他力学的理论和方法，按照结构的设计图，建立系统的数学模型。</li>
+<li>机械系统动力学实验建模 如果对系统的内部结构及其特性不能确定，在这种情况下，也可通过激振试验、直接测量系统的输入与输出，然后采用系统参数识别等理论与方法，建立该系统的数学模型。</li>
+<li>机械系统动力学联合建模 工程实际中的机械系统动力学分析问题大多出现这样一种情况，即对系统的内部结构与性能仅有部分了解和认识，其数学模型可以或已经被导出，但模型中的某些参数尚有待于采用其他方法来确定，这时就需要综合使用动力学理论建模和实验建模（即系统动力学联合建模方法）来解决问题</li>
+</ol>
+<h4 id="分别各列举三个生活中振动为优点和缺点的例子"><a href="#分别各列举三个生活中振动为优点和缺点的例子" class="headerlink" title="分别各列举三个生活中振动为优点和缺点的例子"></a>分别各列举三个生活中振动为优点和缺点的例子</h4><p>优点：</p>
+<ol>
+<li>摇篮摇椅：可以帮助婴儿入睡，缓解哭闹。</li>
+<li>震动按摩椅：可以舒缓肌肉疲劳，放松身心。</li>
+<li>电动牙刷：可以更有效地清洁牙齿，减少牙齿疾病。</li>
+</ol>
+<p>缺点：</p>
+<ol>
+<li>地震：会造成房屋倒塌、人员伤亡等严重后果。</li>
+<li>车辆颠簸：会引起乘客不适，甚至导致晕车。</li>
+<li>洗衣机震动：如果不稳定，会产生噪音、损坏机器、影响使用寿命。</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>MD_Learn_1</title>
     <url>/2023/09/22/md1/</url>
     <content><![CDATA[<p>一些简单的实列练习</p>
@@ -32,6 +55,20 @@
 ]]></content>
       <tags>
         <tag>MD</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>数控-铣床</title>
+    <url>/2023/09/17/%E6%95%B0%E6%8E%A7-%E9%93%A3%E5%BA%8A/</url>
+    <content><![CDATA[<h2 id="代码如下"><a href="#代码如下" class="headerlink" title="代码如下"></a>代码如下</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/imag/%E6%95%B0%E6%8E%A7%E9%93%A3%E5%BA%8A-%E4%BB%A3%E7%A0%81.jpg"
+                     
+                ></p>
+<h4 id="是的，这个代码有问题"><a href="#是的，这个代码有问题" class="headerlink" title="是的，这个代码有问题"></a>是的，这个代码有问题</h4>]]></content>
+      <tags>
+        <tag>精工实习</tag>
       </tags>
   </entry>
   <entry>
@@ -146,20 +183,6 @@
       </tags>
   </entry>
   <entry>
-    <title>数控-铣床</title>
-    <url>/2023/09/17/%E6%95%B0%E6%8E%A7-%E9%93%A3%E5%BA%8A/</url>
-    <content><![CDATA[<h2 id="代码如下"><a href="#代码如下" class="headerlink" title="代码如下"></a>代码如下</h2><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/imag/%E6%95%B0%E6%8E%A7%E9%93%A3%E5%BA%8A-%E4%BB%A3%E7%A0%81.jpg"
-                     
-                ></p>
-<h4 id="是的，这个代码有问题"><a href="#是的，这个代码有问题" class="headerlink" title="是的，这个代码有问题"></a>是的，这个代码有问题</h4>]]></content>
-      <tags>
-        <tag>精工实习</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>电工学笔记</title>
     <url>/2023/09/24/%E7%94%B5%E5%B7%A5%E5%AD%A6%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<p>学习笔记  </p>
@@ -174,8 +197,11 @@
 
 <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/index.pdf">Download PDF</a></p>
 </iframe>
+</object>  
 
-</object>]]></content>
+  
+  
+<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;object data=&quot;笔记1.pdf&quot; type=&quot;application/pdf&quot; width=&quot;100%&quot; height=&quot;840&quot;&gt;</span><br><span class="line"></span><br><span class="line">&lt;iframe src=&quot;笔记1.pdf&quot; width=&quot;100%&quot; height=&quot;840&quot; style=&quot;border: none;&quot;&gt;</span><br><span class="line"></span><br><span class="line">This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;/index.pdf&quot;&gt;Download PDF&lt;/a&gt;</span><br><span class="line"></span><br><span class="line">&lt;/iframe&gt;</span><br><span class="line"></span><br><span class="line">&lt;/object&gt;</span><br></pre></td></tr></table></figure></div>]]></content>
       <tags>
         <tag>电工学</tag>
       </tags>
