@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://steve2hfut.github.io/link/index.html</loc>
+    
+    <lastmod>2023-09-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://steve2hfut.github.io/categories/index.html</loc>
+    
+    <lastmod>2023-09-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://steve2hfut.github.io/tags/index.html</loc>
+    
+    <lastmod>2023-09-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://steve2hfut.github.io/2023/09/26/%E6%B5%8B%E8%AF%95%E8%84%911/</loc>
     
     <lastmod>2023-09-27</lastmod>
@@ -30,15 +57,6 @@
   
   <url>
     <loc>https://steve2hfut.github.io/2023/09/24/%E7%94%B5%E5%B7%A5%E5%AD%A6%E7%AC%94%E8%AE%B0/</loc>
-    
-    <lastmod>2023-09-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://steve2hfut.github.io/links/index.html</loc>
     
     <lastmod>2023-09-24</lastmod>
     
@@ -82,28 +100,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://steve2hfut.github.io/categories/index.html</loc>
-    
-    <lastmod>2023-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://steve2hfut.github.io/tags/index.html</loc>
-    
-    <lastmod>2023-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://steve2hfut.github.io/</loc>
-    <lastmod>2023-09-29</lastmod>
+    <lastmod>2023-09-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -111,35 +111,35 @@
   
   <url>
     <loc>https://steve2hfut.github.io/tags/%E4%BD%9C%E4%B8%9A/</loc>
-    <lastmod>2023-09-29</lastmod>
+    <lastmod>2023-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://steve2hfut.github.io/tags/MD/</loc>
-    <lastmod>2023-09-29</lastmod>
+    <lastmod>2023-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://steve2hfut.github.io/tags/%E7%B2%BE%E5%B7%A5%E5%AE%9E%E4%B9%A0/</loc>
-    <lastmod>2023-09-29</lastmod>
+    <lastmod>2023-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://steve2hfut.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2023-09-29</lastmod>
+    <lastmod>2023-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://steve2hfut.github.io/tags/%E7%94%B5%E5%B7%A5%E5%AD%A6/</loc>
-    <lastmod>2023-09-29</lastmod>
+    <lastmod>2023-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
