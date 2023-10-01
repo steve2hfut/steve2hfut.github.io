@@ -6,7 +6,7 @@
   <link href="https://steve2hfut.github.io/atom.xml" rel="self"/>
   
   <link href="https://steve2hfut.github.io/"/>
-  <updated>2023-09-27T15:31:11.885Z</updated>
+  <updated>2023-10-01T15:09:39.301Z</updated>
   <id>https://steve2hfut.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>理论力学pdf加mind测试</title>
+    <link href="https://steve2hfut.github.io/2023/09/30/li1/"/>
+    <id>https://steve2hfut.github.io/2023/09/30/li1/</id>
+    <published>2023-09-30T14:13:32.000Z</published>
+    <updated>2023-10-01T15:09:39.301Z</updated>
+    
+    <content type="html"><![CDATA[<!-- <div class="markmap-container" style="height:height">  <svg data="{&quot;t&quot;:&quot;root&quot;,&quot;d&quot;:0,&quot;v&quot;:&quot;&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[0,1]},&quot;v&quot;:&quot;粉色好看&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[1,2]},&quot;v&quot;:&quot;爱哭的&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[2,3]},&quot;v&quot;:&quot;两岸三地&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[3,4]},&quot;v&quot;:&quot;阿斯顿&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[4,5]},&quot;v&quot;:&quot;阿莎&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[5,6]},&quot;v&quot;:&quot;上的飞机&quot;}]}]}],&quot;p&quot;:{}}"></svg></div> --><h2 id="平面任意力系的ppt"><a href="#平面任意力系的ppt" class="headerlink" title="平面任意力系的ppt"></a>平面任意力系的ppt</h2><p>测试一下把pdf文档放在本地的访问速度</p><object data="mypdf/li/平面任意力系01.pdf" type="application/pdf" width="100%" height="840"><iframe src="mypdf/li/平面任意力系01.pdf" width="100%" height="840" style="border: none;"><p>This browser does not support PDFs. Please download the PDF to view it: <a href="/index.pdf">Download PDF</a></p></iframe></object>  <h2 id="顺便测试一下"><a href="#顺便测试一下" class="headerlink" title="顺便测试一下"></a>顺便测试一下</h2><p>发现脑图在<strong>butterfly</strong>的渲染速度很’快’,之前在<strong>redefine</strong>上基本渲染不了(速度极慢,常常不显示思维导图)  </p><div class="markmap-container" style="height:height">  <svg data="{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[0,2]},&quot;v&quot;:&quot;&#39;&lt;strong&gt;汇交力系的合成&lt;/strong&gt;&#39;&lt;br&gt;\n各力的作用线汇交于一点的力系称为汇交力系&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[2,3]},&quot;v&quot;:&quot;汇交力系合成的几何法 &lt;img src=\&quot;https://pic.imgdb.cn/item/65198ab4c458853aefc06f1b.png\&quot; alt=\&quot;\&quot;&gt;&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[3,4]},&quot;v&quot;:&quot;汇交力系合成的解析法&quot;}]}"></svg></div>]]></content>
+    
+    
+    <summary type="html">测试页面</summary>
+    
+    
+    
+    <category term="测试" scheme="https://steve2hfut.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="理论力学" scheme="https://steve2hfut.github.io/tags/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>脑图测试2</title>
