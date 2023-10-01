@@ -46,13 +46,13 @@
  -->
 
 <h2 id="平面任意力系的ppt"><a href="#平面任意力系的ppt" class="headerlink" title="平面任意力系的ppt"></a>平面任意力系的ppt</h2><p>测试一下把pdf文档放在本地的访问速度</p>
-<object data="mypdf/li/平面任意力系01.pdf" type="application/pdf" width="100%" height="840">
+<!-- <object data="/mypdf/li/平面任意力系01.pdf" type="application/pdf" width="100%" height="840"> -->
 
-<iframe src="mypdf/li/平面任意力系01.pdf" width="100%" height="840" style="border: none;">
+<iframe src="/mypdf/li/平面任意力系01.pdf" width="100%" height="840" style="border: none;">
 
 <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/index.pdf">Download PDF</a></p>
 </iframe>
-</object>  
+<!-- </object>   -->
 
 
 <h2 id="顺便测试一下"><a href="#顺便测试一下" class="headerlink" title="顺便测试一下"></a>顺便测试一下</h2><p>发现脑图在<strong>butterfly</strong>的渲染速度很’快’,之前在<strong>redefine</strong>上基本渲染不了(速度极慢,常常不显示思维导图)  </p>
