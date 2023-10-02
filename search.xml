@@ -326,4 +326,141 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
         <tag>电工学</tag>
       </tags>
   </entry>
+  <entry>
+    <title>网站gtp使用方法</title>
+    <url>/2023/10/02/gtp_ai/</url>
+    <content><![CDATA[<h1 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h1><h2 id="获取国内免费的中转官网api"><a href="#获取国内免费的中转官网api" class="headerlink" title="获取国内免费的中转官网api"></a>获取国内免费的中转官网api</h2><ol>
+<li>直接点这个<a href="https://api.chatanywhere.org/v1/oauth/free/github/render">链接</a>  </li>
+<li>然后用GitHub账号登录<br><img src="https://pic.imgdb.cn/item/651acab9c458853aef17902c.png"></li>
+<li>登录后会看到你的<strong>免费API Key</strong></li>
+<li>记住(复制)这个key</li>
+</ol>
+<h1 id="第二部"><a href="#第二部" class="headerlink" title="第二部"></a>第二部</h1><h2 id="进入本站网址"><a href="#进入本站网址" class="headerlink" title="进入本站网址"></a>进入本站<a href="https://gtp.stevehfut.top/">网址</a></h2><blockquote>
+<p>本站导航栏也由此网址 </p>
+</blockquote>
+<ol>
+<li>进入设置界面<br><img src="https://pic.imgdb.cn/item/651add32c458853aef1b2d2a.png">  </li>
+<li>在<code>1</code>中填入</li>
+</ol>
+<p><code>https://api.chatanywhere.com.cn</code><br>在<code>2</code>中填入第一步中你获得的<code>api-key</code><br><img src="https://pic.imgdb.cn/item/651ade3bc458853aef1b9c66.png"><br>3. 其他的配置看个人默认就好,若要更详细的使用文档<br>请点此处直接看<a href="https://github.com/Yidadaa/ChatGPT-Next-Web/blob/main/docs/user-manual-cn.md">官方文档</a>  </p>
+<blockquote>
+<p>考虑到官网的访问速度比较慢你可以直接看本站的<a href="/2023/10/02/gtp_doc/">copy副本</a>  </p>
+</blockquote>
+<h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><ol>
+<li>GitHub账号需要注册满<code>七天</code>才能获取<code>api-key</code>  </li>
+<li>此api-key有每小时<strong>60</strong>次请求的限制,注意额度使用</li>
+</ol>
+<!-- 
+<div class="markmap-container" style="height:height">
+  <svg data="{&quot;t&quot;:&quot;root&quot;,&quot;d&quot;:0,&quot;v&quot;:&quot;&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[0,1]},&quot;v&quot;:&quot;粉色好看&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[1,2]},&quot;v&quot;:&quot;爱哭的&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[2,3]},&quot;v&quot;:&quot;两岸三地&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[3,4]},&quot;v&quot;:&quot;阿斯顿&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[4,5]},&quot;v&quot;:&quot;阿莎&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[5,6]},&quot;v&quot;:&quot;上的飞机&quot;}]}]}],&quot;p&quot;:{}}"></svg>
+</div>
+ -->
+
+<!-- <object data="mypdf/" type="application/pdf" width="100%" height="840">
+
+<iframe src="mypdf/" width="100%" height="840" style="border: none;">
+
+This browser does not support PDFs. Please download the PDF to view it: <a href="/index.pdf">Download PDF</a>
+
+</iframe>
+</object>   -->
+
+
+]]></content>
+      <categories>
+        <category>方法</category>
+      </categories>
+      <tags>
+        <tag>ai</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ChatGPT Next Web User Manual</title>
+    <url>/2023/10/02/gtp_doc/</url>
+    <content><![CDATA[<h1 id="用户手册-User-Manual"><a href="#用户手册-User-Manual" class="headerlink" title="用户手册 User Manual"></a>用户手册 User Manual</h1><blockquote>
+<p>No english version yet, please read this doc with ChatGPT or other translation tools.</p>
+</blockquote>
+<p>本文档用于解释 ChatGPT Next Web 的部分功能介绍和设计原则。</p>
+<h2 id="面具-Mask"><a href="#面具-Mask" class="headerlink" title="面具 (Mask)"></a>面具 (Mask)</h2><h3 id="什么是面具？它和提示词的区别是什么？"><a href="#什么是面具？它和提示词的区别是什么？" class="headerlink" title="什么是面具？它和提示词的区别是什么？"></a>什么是面具？它和提示词的区别是什么？</h3><p>面具 &#x3D; 多个预设提示词 + 模型设置 + 对话设置。</p>
+<p>其中预设提示词（Contextual Prompts）一般用于 In-Context Learning，用于让 ChatGPT 生成更加符合要求的输出，也可以增加系统约束或者输入有限的额外知识。</p>
+<p>模型设置则顾名思义，使用此面具创建的对话都会默认使用对应的模型参数。</p>
+<p>对话设置是与对话体验相关的一系列设置，我们会在下方的章节中依次介绍。</p>
+<h3 id="如何添加一个预设面具？"><a href="#如何添加一个预设面具？" class="headerlink" title="如何添加一个预设面具？"></a>如何添加一个预设面具？</h3><p>目前仅能够通过编辑源代码的方式添加预设面具，请根据需要编辑 <a href="../app/masks/">mask</a> 目录下对应语言的文件即可。</p>
+<p>编辑步骤如下：</p>
+<ol>
+<li>在 ChatGPT Next Web 中配置好一个面具；</li>
+<li>使用面具编辑页面的下载按钮，将面具保存为 JSON 格式；</li>
+<li>让 ChatGPT 帮你将 json 文件格式化为对应的 ts 代码；</li>
+<li>放入对应的 .ts 文件。</li>
+</ol>
+<p>后续会增加使用旁加载的方式加载面具。</p>
+<h2 id="对话-Chat"><a href="#对话-Chat" class="headerlink" title="对话 (Chat)"></a>对话 (Chat)</h2><h3 id="对话框上方的按钮的作用"><a href="#对话框上方的按钮的作用" class="headerlink" title="对话框上方的按钮的作用"></a>对话框上方的按钮的作用</h3><p>在默认状态下，将鼠标移动到按钮上，即可查看按钮的文字说明，我们依次介绍：</p>
+<ul>
+<li>对话设置：当前对话的设置，它与全局设置的关系，请查看下一小节的说明；</li>
+<li>颜色主题：点击即可在自动、暗黑、浅色之间轮换；</li>
+<li>快捷指令：项目内置的快捷填充预设提示词，也可以在对话框中输入 &#x2F; 进行搜索；</li>
+<li>所有面具：进入面具页面；</li>
+<li>清除聊天：插入一个清除标记，标记上方的聊天将不会发给 GPT，效果相当于清除了当前对话，当然，你也可以再次点击该按钮，可取消清除；</li>
+<li>模型设置：更改当前对话的模型，注意，此按钮只会修改当前对话的模型，并不会修改全局默认模型。</li>
+</ul>
+<h3 id="对话内设置与全局设置的关系"><a href="#对话内设置与全局设置的关系" class="headerlink" title="对话内设置与全局设置的关系"></a>对话内设置与全局设置的关系</h3><p>目前有两处设置入口：</p>
+<ol>
+<li>页面左下角的设置按钮，进入后是全局设置页；</li>
+<li>对话框上方的设置按钮，进入后是对话设置页。</li>
+</ol>
+<p>在新建对话后，该对话的设置默认与全局设置保持同步，修改全局设置，则新建对话的对话内设置也会被同步修改。</p>
+<p>一旦用户手动更改过对话内设置，则对话内设置将与全局设置断开同步，此时更改全局设置，将不会对该对话生效。</p>
+<p>如果想恢复两者的同步关系，可以将“对话内设置 -&gt; 使用全局设置”选项勾选。</p>
+<h3 id="对话内设置项的含义"><a href="#对话内设置项的含义" class="headerlink" title="对话内设置项的含义"></a>对话内设置项的含义</h3><p>点开对话框上方的按钮，进入对话内设置，内容从上到下依次为：</p>
+<ul>
+<li>预设提示词列表：可以增加、删除、排序预设提示词</li>
+<li>角色头像：顾名思义</li>
+<li>角色名称：顾名思义</li>
+<li>隐藏预设对话：隐藏后，预设提示词不会出现在聊天界面</li>
+<li>使用全局设置：用于表示当前对话是否使用全局对话设置</li>
+<li>模型设置选项：剩余的选项与全局设置选项含义一致，见下一小节</li>
+</ul>
+<h3 id="全局设置项的含义"><a href="#全局设置项的含义" class="headerlink" title="全局设置项的含义"></a>全局设置项的含义</h3><ul>
+<li>model &#x2F; temperature &#x2F; top_p &#x2F; max_tokens &#x2F; presence_penalty &#x2F; frequency_penalty 均为 ChatGPT 的设置参数，详情请查阅 OpenAI 官方文档，再次不再赘述；</li>
+<li>注入系统级提示信息、用户输入预处理：详情请看 <a href="https://github.com/Yidadaa/ChatGPT-Next-Web/issues/2144">https://github.com/Yidadaa/ChatGPT-Next-Web/issues/2144</a></li>
+<li>附带历史消息数：用户每次输入消息并发送时，所携带的最近 n 条消息数量；</li>
+<li>历史消息长度压缩阈值：当已经产生的聊天字数达到该数值以后，则自动触发历史摘要功能；</li>
+<li>历史摘要：是否启用历史摘要功能。</li>
+</ul>
+<h3 id="什么是历史摘要？"><a href="#什么是历史摘要？" class="headerlink" title="什么是历史摘要？"></a>什么是历史摘要？</h3><p>历史摘要功能，也是历史消息压缩功能，是保证长对话场景下保持历史记忆的关键，合理使用该功能可以在不丢失历史话题信息的情况下，节省所使用的 token。</p>
+<p>由于 ChatGPT API 的长度限制，我们以 3.5 模型为例，它只能接受小于 4096 tokens 的对话消息，一旦超出这个数值，就会报错。</p>
+<p>同时为了让 ChatGPT 理解我们对话的上下文，往往会携带多条历史消息来提供上下文信息，而当对话进行一段时间之后，很容易就会触发长度限制。</p>
+<p>为了解决此问题，我们增加了历史记录压缩功能，假设阈值为 1000 字符，那么每次用户产生的聊天记录超过 1000 字符时，都会将没有被总结过的消息，发送给 ChatGPT，让其产生一个 100 字所有的摘要。</p>
+<p>这样，历史信息就从 1000 字压缩到了 100 字，这是一种有损压缩，但已能满足大多数使用场景。</p>
+<h3 id="什么时候应该关闭历史摘要？"><a href="#什么时候应该关闭历史摘要？" class="headerlink" title="什么时候应该关闭历史摘要？"></a>什么时候应该关闭历史摘要？</h3><p>历史摘要可能会影响 ChatGPT 的对话质量，所以如果对话场景是翻译、信息提取等一次性对话场景，请直接关闭历史摘要功能，并将历史消息数设置为 0。</p>
+<h3 id="当用户发送一条消息时，有哪些信息被发送出去了？"><a href="#当用户发送一条消息时，有哪些信息被发送出去了？" class="headerlink" title="当用户发送一条消息时，有哪些信息被发送出去了？"></a>当用户发送一条消息时，有哪些信息被发送出去了？</h3><p>当用户在对话框输入了一条消息后，发送给 ChatGPT 的消息，包含以下几个部分：</p>
+<ol>
+<li>系统级提示词：用于尽可能贴近 ChatGPT 官方 WebUI 的使用体验，可在设置中关闭此信息；</li>
+<li>历史摘要：作为长期记忆，提供长久但模糊的上下文信息；</li>
+<li>预设提示词：当前对话内设置的预设提示词，用于 In-Context Learning 或者注入系统级限制；</li>
+<li>最近 n 条对话记录：作为短期记忆，提供短暂但精确的上下文信息；</li>
+<li>用户当前输入的消息。<!-- 
+<div class="markmap-container" style="height:height">
+  <svg data="{&quot;t&quot;:&quot;root&quot;,&quot;d&quot;:0,&quot;v&quot;:&quot;&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[0,1]},&quot;v&quot;:&quot;粉色好看&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[1,2]},&quot;v&quot;:&quot;爱哭的&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[2,3]},&quot;v&quot;:&quot;两岸三地&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[3,4]},&quot;v&quot;:&quot;阿斯顿&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[4,5]},&quot;v&quot;:&quot;阿莎&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[5,6]},&quot;v&quot;:&quot;上的飞机&quot;}]}]}],&quot;p&quot;:{}}"></svg>
+</div>
+ --></li>
+</ol>
+<!-- <object data="mypdf/" type="application/pdf" width="100%" height="840">
+
+<iframe src="mypdf/" width="100%" height="840" style="border: none;">
+
+This browser does not support PDFs. Please download the PDF to view it: <a href="/index.pdf">Download PDF</a>
+
+</iframe>
+</object>   -->
+
+
+]]></content>
+      <categories>
+        <category>转载</category>
+      </categories>
+      <tags>
+        <tag>ai</tag>
+      </tags>
+  </entry>
 </search>
