@@ -184,6 +184,9 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 <p>$$<br>\begin{Bmatrix}<br>   a &amp; b \<br>   c &amp; d<br>\end{Bmatrix}<br>$$<br>$$<br>\begin{CD}<br>   A @&gt;3&gt;&gt; B \<br>@VbVV @AAcA \<br>   C @&#x3D; D<br>\end{CD}<br>$$</p>
 <h2 id="来源"><a href="#来源" class="headerlink" title="来源"></a>来源</h2><p>学习于<br><a href="https://www.runoob.com/markdown/md-paragraph.html">菜鸟教程</a></p>
 ]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
       <tags>
         <tag>MD</tag>
       </tags>
@@ -218,6 +221,9 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 <p>可能这个页面不支持</p>
 <h2 id="来源"><a href="#来源" class="headerlink" title="来源"></a>来源</h2><p>学习于<br><a href="https://www.runoob.com/markdown/md-paragraph.html">菜鸟教程</a></p>
 ]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
       <tags>
         <tag>MD</tag>
       </tags>
@@ -229,77 +235,6 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 <h4 id="是的，这个代码有问题"><a href="#是的，这个代码有问题" class="headerlink" title="是的，这个代码有问题"></a>是的，这个代码有问题</h4>]]></content>
       <tags>
         <tag>精工实习</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>脑图测试2</title>
-    <url>/2023/09/26/%E6%B5%8B%E8%AF%95%E8%84%911/</url>
-    <content><![CDATA[<ul>
-<li><a href="https://hunterx.xyz/hexo-simple-mindmap-plugin-intro.html">Hexo 的思维导图插件</a><ul>
-<li>前言</li>
-<li>使用方法<ul>
-<li>一</li>
-<li>二</li>
-<li>三</li>
-</ul>
-</li>
-<li>太长不看</li>
-<li>参考资料</li>
-</ul>
-</li>
-</ul>
-
-<div class="markmap-container" style="height:400px">
-  <svg data="{&quot;t&quot;:&quot;root&quot;,&quot;d&quot;:0,&quot;v&quot;:&quot;&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[0,1]},&quot;v&quot;:&quot;links&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[1,2]},&quot;v&quot;:&quot;&lt;strong&gt;inline&lt;/strong&gt; &lt;del&gt;text&lt;/del&gt; &lt;em&gt;styles&lt;/em&gt;&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[2,4]},&quot;v&quot;:&quot;multiline&lt;br&gt;\ntext&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[4,5]},&quot;v&quot;:&quot;&lt;code&gt;inline code&lt;/code&gt;&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[5,9]},&quot;v&quot;:&quot;&lt;pre class=\&quot;language-js\&quot;&gt;&lt;code class=\&quot;language-js\&quot;&gt;console&lt;span class=\&quot;token punctuation\&quot;&gt;.&lt;/span&gt;&lt;span class=\&quot;token function\&quot;&gt;log&lt;/span&gt;&lt;span class=\&quot;token punctuation\&quot;&gt;(&lt;/span&gt;&lt;span class=\&quot;token string\&quot;&gt;&#39;code block&#39;&lt;/span&gt;&lt;span class=\&quot;token punctuation\&quot;&gt;)&lt;/span&gt;&lt;span class=\&quot;token punctuation\&quot;&gt;;&lt;/span&gt;\nconsole&lt;span class=\&quot;token punctuation\&quot;&gt;.&lt;/span&gt;&lt;span class=\&quot;token function\&quot;&gt;log&lt;/span&gt;&lt;span class=\&quot;token punctuation\&quot;&gt;(&lt;/span&gt;&lt;span class=\&quot;token string\&quot;&gt;&#39;code block&#39;&lt;/span&gt;&lt;span class=\&quot;token punctuation\&quot;&gt;)&lt;/span&gt;&lt;span class=\&quot;token punctuation\&quot;&gt;;&lt;/span&gt;\n&lt;/code&gt;&lt;/pre&gt;\n&quot;}],&quot;p&quot;:{}}"></svg>
-</div>
-
-
-
-<div class="markmap-container" style="height:height">
-  <svg data="{&quot;t&quot;:&quot;root&quot;,&quot;d&quot;:0,&quot;v&quot;:&quot;&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[0,1]},&quot;v&quot;:&quot;Markdown&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[1,2]},&quot;v&quot;:&quot;Syntax&quot;}],&quot;p&quot;:{}}"></svg>
-</div>
-
-
-
-<!-- <blockquote class="pullquote mindmap mindmap-md"><ul>
-<li><a href="https://hunterx.xyz/hexo-simple-mindmap-plugin-intro.html">Hexo 的思维导图插件</a><ul>
-<li>前言</li>
-<li>使用方法<ul>
-<li>一</li>
-<li>二</li>
-<li>三</li>
-</ul>
-</li>
-<li>太长不看</li>
-<li>参考资料</li>
-</ul>
-</li>
-</ul>
-</blockquote> -->]]></content>
-      <tags>
-        <tag>测试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>脑图测试</title>
-    <url>/2023/09/17/%E6%B5%8B%E8%AF%95%E8%84%91%E5%9B%BE/</url>
-    <content><![CDATA[<blockquote class="pullquote mindmap mindmap-md"><ul>
-<li><a href="https://hunterx.xyz/hexo-simple-mindmap-plugin-intro.html">Hexo 的思维导图插件</a><ul>
-<li>前言</li>
-<li>使用方法<ul>
-<li>一</li>
-<li>二</li>
-<li>三</li>
-</ul>
-</li>
-<li>太长不看</li>
-<li>参考资料</li>
-</ul>
-</li>
-</ul>
-</blockquote>]]></content>
-      <tags>
-        <tag>测试</tag>
       </tags>
   </entry>
   <entry>
@@ -336,19 +271,23 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 <li>记住(复制)这个key</li>
 </ol>
 <h1 id="第二部"><a href="#第二部" class="headerlink" title="第二部"></a>第二部</h1><h2 id="进入本站网址"><a href="#进入本站网址" class="headerlink" title="进入本站网址"></a>进入本站<a href="https://gtp.stevehfut.top/">网址</a></h2><blockquote>
-<p>本站导航栏也由此网址 </p>
+<p>本站导航栏也有此网址 </p>
 </blockquote>
 <ol>
 <li>进入设置界面<br><img src="https://pic.imgdb.cn/item/651add32c458853aef1b2d2a.png">  </li>
-<li>在<code>1</code>中填入</li>
-</ol>
-<p><code>https://api.chatanywhere.com.cn</code><br>在<code>2</code>中填入第一步中你获得的<code>api-key</code><br><img src="https://pic.imgdb.cn/item/651ade3bc458853aef1b9c66.png"><br>3. 其他的配置看个人默认就好,若要更详细的使用文档<br>请点此处直接看<a href="https://github.com/Yidadaa/ChatGPT-Next-Web/blob/main/docs/user-manual-cn.md">官方文档</a>  </p>
-<blockquote>
-<p>考虑到官网的访问速度比较慢你可以直接看本站的<a href="/2023/10/02/gtp_doc/">copy副本</a>  </p>
+<li>在<code>1</code>中填入<br> <code>https://api.chatanywhere.com.cn</code><br> 在<code>2</code>中填入第一步中你获得的<code>api-key</code><br><img src="https://pic.imgdb.cn/item/651ade3bc458853aef1b9c66.png"> </li>
+<li>其他的配置看个人默认就好,若要更详细的使用文档<br>请点此处直接看<a href="https://github.com/Yidadaa/ChatGPT-Next-Web/blob/main/docs/user-manual-cn.md">官方文档</a>  <blockquote>
+<p>考虑到官网的访问速度比较慢你可以直接看本站的<a href="/2023/10/02/gtp_doc/">copy副本</a></p>
 </blockquote>
+</li>
+</ol>
 <h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><ol>
 <li>GitHub账号需要注册满<code>七天</code>才能获取<code>api-key</code>  </li>
 <li>此api-key有每小时<strong>60</strong>次请求的限制,注意额度使用</li>
+</ol>
+<h2 id="参考及项目来源"><a href="#参考及项目来源" class="headerlink" title="参考及项目来源"></a>参考及项目来源</h2><ol>
+<li><a href="https://github.com/Yidadaa/ChatGPT-Next-Web">https://github.com/Yidadaa/ChatGPT-Next-Web</a></li>
+<li><a href="https://github.com/chatanywhere/GPT_API_free">https://github.com/chatanywhere/GPT_API_free</a></li>
 </ol>
 <!-- 
 <div class="markmap-container" style="height:height">
