@@ -30,7 +30,7 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
   </entry>
   <entry>
     <title>本地图片传输流畅测试</title>
-    <url>/2023/10/03/ceshitu/</url>
+    <url>/2023/09/03/ceshitu/</url>
     <content><![CDATA[<p><img src="/imag/tu/1.png"><br><img src="/imag/tu/2.png"><br><img src="/imag/tu/2.png"><br><img src="/imag/tu/3.png"><br><img src="https://imag.stevehfut.top/file/8f9a015a5073eddffcc4d.png"></p>
 <!-- 
 <div class="markmap-container" style="height:height">
@@ -428,34 +428,6 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;object data=&quot;笔记1.pdf&quot; type=&quot;application/pdf&quot; width=&quot;100%&quot; height=&quot;840&quot;&gt;</span><br><span class="line"></span><br><span class="line">&lt;iframe src=&quot;笔记1.pdf&quot; width=&quot;100%&quot; height=&quot;840&quot; style=&quot;border: none;&quot;&gt;</span><br><span class="line"></span><br><span class="line">This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;/index.pdf&quot;&gt;Download PDF&lt;/a&gt;</span><br><span class="line"></span><br><span class="line">&lt;/iframe&gt;</span><br><span class="line"></span><br><span class="line">&lt;/object&gt;</span><br></pre></td></tr></table></figure>]]></content>
       <tags>
         <tag>电工学</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>本地图片传输流畅测试</title>
-    <url>/2023/10/03/ceshitu/ceshitu/</url>
-    <content><![CDATA[<p><img src="/1.png"><br><img src="/2.png"><br><img src="/3.png"><br><img src="https://imag.stevehfut.top/file/8f9a015a5073eddffcc4d.png"></p>
-<!-- 
-<div class="markmap-container" style="height:height">
-  <svg data="{&quot;t&quot;:&quot;root&quot;,&quot;d&quot;:0,&quot;v&quot;:&quot;&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[0,1]},&quot;v&quot;:&quot;粉色好看&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[1,2]},&quot;v&quot;:&quot;爱哭的&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[2,3]},&quot;v&quot;:&quot;两岸三地&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[3,4]},&quot;v&quot;:&quot;阿斯顿&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[4,5]},&quot;v&quot;:&quot;阿莎&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[5,6]},&quot;v&quot;:&quot;上的飞机&quot;}]}]}],&quot;p&quot;:{}}"></svg>
-</div>
- -->
-
-<!-- <object data="mypdf/" type="application/pdf" width="100%" height="840">
-
-<iframe src="mypdf/" width="100%" height="840" style="border: none;">
-
-This browser does not support PDFs. Please download the PDF to view it: <a href="/index.pdf">Download PDF</a>
-
-</iframe>
-</object>   -->
-
-
-]]></content>
-      <categories>
-        <category>测试</category>
-      </categories>
-      <tags>
-        <tag>图片</tag>
       </tags>
   </entry>
 </search>
