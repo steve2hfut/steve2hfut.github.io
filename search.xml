@@ -265,15 +265,15 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
     <title>理论力学第二章</title>
     <url>/2023/10/04/lilunzx1/</url>
     <content><![CDATA[<h2 id="分力在数值上一定等于投影值吗？"><a href="#分力在数值上一定等于投影值吗？" class="headerlink" title="分力在数值上一定等于投影值吗？"></a>分力在数值上一定等于投影值吗？</h2><ul>
-<li>当两轴相互正交时，分力在数值上等于投影。<br>  在两轴相互不正交时，分力在数值上不等于投影。<br><img src="/imag/LiXue/tmpE497.png"></li>
+<li>当两轴相互正交时，分力在数值上等于投影。<br>  在两轴相互不正交时，分力在数值上不等于投影。<br><img src="/imag/LiXue/tmpE497.jpg"></li>
 </ul>
 <h2 id="新奇解法"><a href="#新奇解法" class="headerlink" title="新奇解法"></a>新奇解法</h2><p><img src="/imag/LiXue/tmpFA85.png"><br>这样建立坐标轴可以消掉另外的力  </p>
 <h2 id="要遗忘的知识…"><a href="#要遗忘的知识…" class="headerlink" title="要遗忘的知识…."></a>要遗忘的知识….</h2><p><img src="/imag/LiXue/tmp2CC3.png">  </p>
-<h2 id="力偶"><a href="#力偶" class="headerlink" title="力偶"></a>力偶</h2><p>—— 由两个等值、反向<br>    且不共线的平行力系组成。<br>(two equal but opposite forces<br>form a couple)  </p>
-<p>• 这一矢量称作 力偶矩矢<br>1） 其长度表示力偶矩大小；<br>• 两个力组成的平面称<br>力偶作用面<br>• 两个力间的垂距 d 称为<br>力偶臂<br>• 空间力系因力偶作用面<br>的方位可能各不相同，<br>故把力偶用矢量表示。<br>2）方位与作用面法方向方位 n 同。<br>3）指向与力偶转向的关系服从<br>右手螺旋法则。</p>
-<h2 id="方向余弦"><a href="#方向余弦" class="headerlink" title="方向余弦"></a>方向余弦</h2><p>在解析几何里，一个向量的三个方向余弦分别是这向量与三个坐标轴之间的角度的余弦。<br>假设是三维空间里的向量：<br><img src="/imag/LiXue/tmp21BF.png"><br>其中，是一组标准正交基的单位基底向量，分别为对于x-轴、y-轴、z-轴的分量。<br>那么，对于x-轴、y-轴、z-轴的方向余弦分别为<br><img src="/imag/LiXue/tmpE416.png"></p>
+<h2 id="力偶"><a href="#力偶" class="headerlink" title="力偶"></a>力偶</h2><p>—— 由两个等值、反向且不共线的平行力系组成。<br>(two equal but opposite forcesform a couple)  </p>
+<p>• 这一矢量称作 力偶矩矢<br>1） 其长度表示力偶矩大小；<br>• 两个力组成的平面称力偶作用面<br>• 两个力间的垂距 d 称为力偶臂<br>• 空间力系因力偶作用面的方位可能各不相同，故把力偶用矢量表示。<br>2）方位与作用面法方向方位 n 同。<br>3）指向与力偶转向的关系服从右手螺旋法则。</p>
+<h2 id="方向余弦"><a href="#方向余弦" class="headerlink" title="方向余弦"></a>方向余弦</h2><p>在解析几何里，一个向量的三个方向余弦分别是这向量与三个坐标轴之间的角度的余弦。假设是三维空间里的向量：<br><img src="/imag/LiXue/tmp21BF.png"><br>其中，是一组标准正交基的单位基底向量，分别为对于x-轴、y-轴、z-轴的分量。那么，对于x-轴、y-轴、z-轴的方向余弦分别为<br><img src="/imag/LiXue/tmpE416.png"></p>
 <p>其中，分别为对于x-轴、y-轴、z-轴的角度。<br>注意到以下恒等式：<br><img src="/imag/LiXue/tmp5059.png"></p>
-<h2 id="一些总结"><a href="#一些总结" class="headerlink" title="一些总结"></a>一些总结</h2><p>• 通常力偶矩的计算与力偶平衡条件的应用比较简单。<br>解题重点仍在受力分析上。如能判断结构中哪些构件<br>是在力偶系作用下平衡，则可简化计算。<br>• 研究对象在平面力偶系作用下平衡时，只有一个独立<br>的平衡方程，可解一个未知量。<br>• 从静力平衡的观点看，主动力偶可在其受力体构件—<br>BC上转移至任何位置，不会影响它的平衡及导致FA、<br>FB的变化，但改变了BC构件内部的受力。又从整体平<br>衡看，主动力偶可在结构构架上任意转移，不会影响<br>整体平衡，但改变了各构件的受力。因此，考虑力的<br>内效应（即变形效应），在分析中，不可转移力偶。</p>
+<h2 id="一些总结"><a href="#一些总结" class="headerlink" title="一些总结"></a>一些总结</h2><p>• 通常力偶矩的计算与力偶平衡条件的应用比较简单.解题重点仍在受力分析上。如能判断结构中哪些构件是在力偶系作用下平衡，则可简化计算。<br>• 研究对象在平面力偶系作用下平衡时，只有一个独立的平衡方程，可解一个未知量。<br>• 从静力平衡的观点看，主动力偶可在其受力体构件—BC上转移至任何位置，不会影响它的平衡及导致FA、FB的变化，但改变了BC构件内部的受力。又从整体平衡看，主动力偶可在结构构架上任意转移，不会影响整体平衡，但改变了各构件的受力。因此，考虑力的内效应（即变形效应），在分析中，不可转移力偶。</p>
 <!-- ![](imag/tu/2.png) -->
 
 
