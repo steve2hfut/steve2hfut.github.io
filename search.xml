@@ -109,42 +109,6 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
       </tags>
   </entry>
   <entry>
-    <title>机械动力学</title>
-    <url>/2023/09/25/jixiedongli/</url>
-    <content><![CDATA[<style>
-        body {
-            background-image: url("https://pic.imgdb.cn/item/650fdb64c458853aef5bf6ae.jpg");
-            background-position: center;
-            background-repeat: no-repeat;
-            background-size: cover;
-        }
-</style>
-
-
-<h4 id="拉格朗日"><a href="#拉格朗日" class="headerlink" title="拉格朗日"></a>拉格朗日</h4><p>1788年拉格朗日出版的《分析力学》是世界上最早的一本分析力学的著作。 分析力学是建立在虚功原理和达朗贝尔原理的基础上。 两者结合，可得到动力学普遍方程，从而导出分析力学各种系统的动力方程。 1760～1761年，拉格朗日用这两个原理和理想约束结合，得到了动力学的普遍方程，几乎所有的分析力学的动力学方程都是从这个方程直接或间接导出的。  </p>
-<h4 id="建立机械系统动力学模型的方法"><a href="#建立机械系统动力学模型的方法" class="headerlink" title="建立机械系统动力学模型的方法"></a>建立机械系统动力学模型的方法</h4><ol>
-<li>机械系统动力学理论建模 对系统的内部结构、尺寸、材料的性能参数（如质量、刚度、阻尼等）、连接条件和约束条件均有详尽而又足够的了解，则可利用近代结构动力学或其他力学的理论和方法，按照结构的设计图，建立系统的数学模型。</li>
-<li>机械系统动力学实验建模 如果对系统的内部结构及其特性不能确定，在这种情况下，也可通过激振试验、直接测量系统的输入与输出，然后采用系统参数识别等理论与方法，建立该系统的数学模型。</li>
-<li>机械系统动力学联合建模 工程实际中的机械系统动力学分析问题大多出现这样一种情况，即对系统的内部结构与性能仅有部分了解和认识，其数学模型可以或已经被导出，但模型中的某些参数尚有待于采用其他方法来确定，这时就需要综合使用动力学理论建模和实验建模（即系统动力学联合建模方法）来解决问题</li>
-</ol>
-<h4 id="分别各列举三个生活中振动为优点和缺点的例子"><a href="#分别各列举三个生活中振动为优点和缺点的例子" class="headerlink" title="分别各列举三个生活中振动为优点和缺点的例子"></a>分别各列举三个生活中振动为优点和缺点的例子</h4><p>优点：</p>
-<ol>
-<li>摇篮摇椅：可以帮助婴儿入睡，缓解哭闹。</li>
-<li>震动按摩椅：可以舒缓肌肉疲劳，放松身心。</li>
-<li>电动牙刷：可以更有效地清洁牙齿，减少牙齿疾病。</li>
-</ol>
-<p>缺点：</p>
-<ol>
-<li>地震：会造成房屋倒塌、人员伤亡等严重后果。</li>
-<li>车辆颠簸：会引起乘客不适，甚至导致晕车。</li>
-<li>洗衣机震动：如果不稳定，会产生噪音、损坏机器、影响使用寿命。</li>
-</ol>
-]]></content>
-      <tags>
-        <tag>作业</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>ChatGPT Next Web User Manual</title>
     <url>/2023/10/02/gtp_doc/</url>
     <content><![CDATA[<h1 id="用户手册-User-Manual"><a href="#用户手册-User-Manual" class="headerlink" title="用户手册 User Manual"></a>用户手册 User Manual</h1><blockquote>
@@ -231,6 +195,42 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
       </categories>
       <tags>
         <tag>ai</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>机械动力学</title>
+    <url>/2023/09/25/jixiedongli/</url>
+    <content><![CDATA[<style>
+        body {
+            background-image: url("https://pic.imgdb.cn/item/650fdb64c458853aef5bf6ae.jpg");
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+</style>
+
+
+<h4 id="拉格朗日"><a href="#拉格朗日" class="headerlink" title="拉格朗日"></a>拉格朗日</h4><p>1788年拉格朗日出版的《分析力学》是世界上最早的一本分析力学的著作。 分析力学是建立在虚功原理和达朗贝尔原理的基础上。 两者结合，可得到动力学普遍方程，从而导出分析力学各种系统的动力方程。 1760～1761年，拉格朗日用这两个原理和理想约束结合，得到了动力学的普遍方程，几乎所有的分析力学的动力学方程都是从这个方程直接或间接导出的。  </p>
+<h4 id="建立机械系统动力学模型的方法"><a href="#建立机械系统动力学模型的方法" class="headerlink" title="建立机械系统动力学模型的方法"></a>建立机械系统动力学模型的方法</h4><ol>
+<li>机械系统动力学理论建模 对系统的内部结构、尺寸、材料的性能参数（如质量、刚度、阻尼等）、连接条件和约束条件均有详尽而又足够的了解，则可利用近代结构动力学或其他力学的理论和方法，按照结构的设计图，建立系统的数学模型。</li>
+<li>机械系统动力学实验建模 如果对系统的内部结构及其特性不能确定，在这种情况下，也可通过激振试验、直接测量系统的输入与输出，然后采用系统参数识别等理论与方法，建立该系统的数学模型。</li>
+<li>机械系统动力学联合建模 工程实际中的机械系统动力学分析问题大多出现这样一种情况，即对系统的内部结构与性能仅有部分了解和认识，其数学模型可以或已经被导出，但模型中的某些参数尚有待于采用其他方法来确定，这时就需要综合使用动力学理论建模和实验建模（即系统动力学联合建模方法）来解决问题</li>
+</ol>
+<h4 id="分别各列举三个生活中振动为优点和缺点的例子"><a href="#分别各列举三个生活中振动为优点和缺点的例子" class="headerlink" title="分别各列举三个生活中振动为优点和缺点的例子"></a>分别各列举三个生活中振动为优点和缺点的例子</h4><p>优点：</p>
+<ol>
+<li>摇篮摇椅：可以帮助婴儿入睡，缓解哭闹。</li>
+<li>震动按摩椅：可以舒缓肌肉疲劳，放松身心。</li>
+<li>电动牙刷：可以更有效地清洁牙齿，减少牙齿疾病。</li>
+</ol>
+<p>缺点：</p>
+<ol>
+<li>地震：会造成房屋倒塌、人员伤亡等严重后果。</li>
+<li>车辆颠簸：会引起乘客不适，甚至导致晕车。</li>
+<li>洗衣机震动：如果不稳定，会产生噪音、损坏机器、影响使用寿命。</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>作业</tag>
       </tags>
   </entry>
   <entry>
