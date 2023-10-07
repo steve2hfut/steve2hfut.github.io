@@ -29,34 +29,6 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
       </tags>
   </entry>
   <entry>
-    <title>本地图片传输流畅测试</title>
-    <url>/2023/09/03/ceshitu/</url>
-    <content><![CDATA[<p><img src="/imag/tu/1.png"><br><img src="/imag/tu/2.png"><br><img src="/imag/tu/2.png"><br><img src="/imag/tu/3.png"><br><img src="https://imag.stevehfut.top/file/8f9a015a5073eddffcc4d.png"></p>
-<!-- 
-<div class="markmap-container" style="height:height">
-  <svg data="{&quot;t&quot;:&quot;root&quot;,&quot;d&quot;:0,&quot;v&quot;:&quot;&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[0,1]},&quot;v&quot;:&quot;粉色好看&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[1,2]},&quot;v&quot;:&quot;爱哭的&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[2,3]},&quot;v&quot;:&quot;两岸三地&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[3,4]},&quot;v&quot;:&quot;阿斯顿&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[4,5]},&quot;v&quot;:&quot;阿莎&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[5,6]},&quot;v&quot;:&quot;上的飞机&quot;}]}]}],&quot;p&quot;:{}}"></svg>
-</div>
- -->
-
-<!-- <object data="mypdf/" type="application/pdf" width="100%" height="840">
-
-<iframe src="mypdf/" width="100%" height="840" style="border: none;">
-
-This browser does not support PDFs. Please download the PDF to view it: <a href="/index.pdf">Download PDF</a>
-
-</iframe>
-</object>   -->
-
-
-]]></content>
-      <categories>
-        <category>测试</category>
-      </categories>
-      <tags>
-        <tag>图片</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>网站gtp使用方法</title>
     <url>/2023/10/02/gtp_ai/</url>
     <content><![CDATA[<h1 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h1><h2 id="获取国内免费的中转官网api"><a href="#获取国内免费的中转官网api" class="headerlink" title="获取国内免费的中转官网api"></a>获取国内免费的中转官网api</h2><ol>
@@ -106,6 +78,34 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
       </categories>
       <tags>
         <tag>ai</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>本地图片传输流畅测试</title>
+    <url>/2023/09/03/ceshitu/</url>
+    <content><![CDATA[<p><img src="/imag/tu/1.png"><br><img src="/imag/tu/2.png"><br><img src="/imag/tu/2.png"><br><img src="/imag/tu/3.png"><br><img src="https://imag.stevehfut.top/file/8f9a015a5073eddffcc4d.png"></p>
+<!-- 
+<div class="markmap-container" style="height:height">
+  <svg data="{&quot;t&quot;:&quot;root&quot;,&quot;d&quot;:0,&quot;v&quot;:&quot;&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[0,1]},&quot;v&quot;:&quot;粉色好看&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[1,2]},&quot;v&quot;:&quot;爱哭的&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[2,3]},&quot;v&quot;:&quot;两岸三地&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[3,4]},&quot;v&quot;:&quot;阿斯顿&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[4,5]},&quot;v&quot;:&quot;阿莎&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[5,6]},&quot;v&quot;:&quot;上的飞机&quot;}]}]}],&quot;p&quot;:{}}"></svg>
+</div>
+ -->
+
+<!-- <object data="mypdf/" type="application/pdf" width="100%" height="840">
+
+<iframe src="mypdf/" width="100%" height="840" style="border: none;">
+
+This browser does not support PDFs. Please download the PDF to view it: <a href="/index.pdf">Download PDF</a>
+
+</iframe>
+</object>   -->
+
+
+]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>图片</tag>
       </tags>
   </entry>
   <entry>
@@ -234,31 +234,6 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
       </tags>
   </entry>
   <entry>
-    <title>理论力学第二章</title>
-    <url>/2023/10/04/lilunzx1/</url>
-    <content><![CDATA[<h2 id="分力在数值上一定等于投影值吗？"><a href="#分力在数值上一定等于投影值吗？" class="headerlink" title="分力在数值上一定等于投影值吗？"></a>分力在数值上一定等于投影值吗？</h2><ul>
-<li>当两轴相互正交时，分力在数值上等于投影。<br>  在两轴相互不正交时，分力在数值上不等于投影。<br><img src="/imag/LiXue/tmpE497.jpg"></li>
-</ul>
-<h2 id="新奇解法"><a href="#新奇解法" class="headerlink" title="新奇解法"></a>新奇解法</h2><p><img src="/imag/LiXue/tmpFA85.png"><br>这样建立坐标轴可以消掉另外的力  </p>
-<h2 id="要遗忘的知识…"><a href="#要遗忘的知识…" class="headerlink" title="要遗忘的知识…."></a>要遗忘的知识….</h2><p><img src="/imag/LiXue/tmp2CC3.png">  </p>
-<h2 id="力偶"><a href="#力偶" class="headerlink" title="力偶"></a>力偶</h2><p>—— 由两个等值、反向且不共线的平行力系组成。<br>(two equal but opposite forcesform a couple)  </p>
-<p>• 这一矢量称作 力偶矩矢<br>1） 其长度表示力偶矩大小；<br>• 两个力组成的平面称力偶作用面<br>• 两个力间的垂距 d 称为力偶臂<br>• 空间力系因力偶作用面的方位可能各不相同，故把力偶用矢量表示。<br>2）方位与作用面法方向方位 n 同。<br>3）指向与力偶转向的关系服从右手螺旋法则。</p>
-<h2 id="方向余弦"><a href="#方向余弦" class="headerlink" title="方向余弦"></a>方向余弦</h2><p>在解析几何里，一个向量的三个方向余弦分别是这向量与三个坐标轴之间的角度的余弦。假设是三维空间里的向量：<br><img src="/imag/LiXue/tmp21BF.png"><br>其中，是一组标准正交基的单位基底向量，分别为对于x-轴、y-轴、z-轴的分量。那么，对于x-轴、y-轴、z-轴的方向余弦分别为<br><img src="/imag/LiXue/tmpE416.png"></p>
-<p>其中，分别为对于x-轴、y-轴、z-轴的角度。<br>注意到以下恒等式：<br><img src="/imag/LiXue/tmp5059.png"></p>
-<h2 id="一些总结"><a href="#一些总结" class="headerlink" title="一些总结"></a>一些总结</h2><p>• 通常力偶矩的计算与力偶平衡条件的应用比较简单.解题重点仍在受力分析上。如能判断结构中哪些构件是在力偶系作用下平衡，则可简化计算。<br>• 研究对象在平面力偶系作用下平衡时，只有一个独立的平衡方程，可解一个未知量。<br>• 从静力平衡的观点看，主动力偶可在其受力体构件—BC上转移至任何位置，不会影响它的平衡及导致FA、FB的变化，但改变了BC构件内部的受力。又从整体平衡看，主动力偶可在结构构架上任意转移，不会影响整体平衡，但改变了各构件的受力。因此，考虑力的内效应（即变形效应），在分析中，不可转移力偶。</p>
-<!-- ![](imag/tu/2.png) -->
-
-
-
-]]></content>
-      <categories>
-        <category>学科</category>
-      </categories>
-      <tags>
-        <tag>力学</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>理论力学pdf加mind测试</title>
     <url>/2023/09/30/li1/</url>
     <content><![CDATA[<!-- 
@@ -284,6 +259,31 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
       </categories>
       <tags>
         <tag>理论力学</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>理论力学第二章</title>
+    <url>/2023/10/04/lilunzx1/</url>
+    <content><![CDATA[<h2 id="分力在数值上一定等于投影值吗？"><a href="#分力在数值上一定等于投影值吗？" class="headerlink" title="分力在数值上一定等于投影值吗？"></a>分力在数值上一定等于投影值吗？</h2><ul>
+<li>当两轴相互正交时，分力在数值上等于投影。<br>  在两轴相互不正交时，分力在数值上不等于投影。<br><img src="/imag/LiXue/tmpE497.jpg"></li>
+</ul>
+<h2 id="新奇解法"><a href="#新奇解法" class="headerlink" title="新奇解法"></a>新奇解法</h2><p><img src="/imag/LiXue/tmpFA85.png"><br>这样建立坐标轴可以消掉另外的力  </p>
+<h2 id="要遗忘的知识…"><a href="#要遗忘的知识…" class="headerlink" title="要遗忘的知识…."></a>要遗忘的知识….</h2><p><img src="/imag/LiXue/tmp2CC3.png">  </p>
+<h2 id="力偶"><a href="#力偶" class="headerlink" title="力偶"></a>力偶</h2><p>—— 由两个等值、反向且不共线的平行力系组成。<br>(two equal but opposite forcesform a couple)  </p>
+<p>• 这一矢量称作 力偶矩矢<br>1） 其长度表示力偶矩大小；<br>• 两个力组成的平面称力偶作用面<br>• 两个力间的垂距 d 称为力偶臂<br>• 空间力系因力偶作用面的方位可能各不相同，故把力偶用矢量表示。<br>2）方位与作用面法方向方位 n 同。<br>3）指向与力偶转向的关系服从右手螺旋法则。</p>
+<h2 id="方向余弦"><a href="#方向余弦" class="headerlink" title="方向余弦"></a>方向余弦</h2><p>在解析几何里，一个向量的三个方向余弦分别是这向量与三个坐标轴之间的角度的余弦。假设是三维空间里的向量：<br><img src="/imag/LiXue/tmp21BF.png"><br>其中，是一组标准正交基的单位基底向量，分别为对于x-轴、y-轴、z-轴的分量。那么，对于x-轴、y-轴、z-轴的方向余弦分别为<br><img src="/imag/LiXue/tmpE416.png"></p>
+<p>其中，分别为对于x-轴、y-轴、z-轴的角度。<br>注意到以下恒等式：<br><img src="/imag/LiXue/tmp5059.png"></p>
+<h2 id="一些总结"><a href="#一些总结" class="headerlink" title="一些总结"></a>一些总结</h2><p>• 通常力偶矩的计算与力偶平衡条件的应用比较简单.解题重点仍在受力分析上。如能判断结构中哪些构件是在力偶系作用下平衡，则可简化计算。<br>• 研究对象在平面力偶系作用下平衡时，只有一个独立的平衡方程，可解一个未知量。<br>• 从静力平衡的观点看，主动力偶可在其受力体构件—BC上转移至任何位置，不会影响它的平衡及导致FA、FB的变化，但改变了BC构件内部的受力。又从整体平衡看，主动力偶可在结构构架上任意转移，不会影响整体平衡，但改变了各构件的受力。因此，考虑力的内效应（即变形效应），在分析中，不可转移力偶。</p>
+<!-- ![](imag/tu/2.png) -->
+
+
+
+]]></content>
+      <categories>
+        <category>学科</category>
+      </categories>
+      <tags>
+        <tag>力学</tag>
       </tags>
   </entry>
   <entry>
@@ -432,6 +432,37 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
       </categories>
       <tags>
         <tag>物理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>近期总结</title>
+    <url>/2023/10/07/zongjie/</url>
+    <content><![CDATA[<!-- ![](imag/tu/2.png) -->
+
+
+<div class="markmap-container" style="height:height">
+  <svg data="{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[0,1]},&quot;v&quot;:&quot;近期总结&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[1,2]},&quot;v&quot;:&quot;学习内容&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[2,4]},&quot;v&quot;:&quot;暑假&lt;br&gt;\n(&lt;em&gt;第一个月大部分时间都在准备成图国赛&lt;/em&gt;)&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:8,&quot;p&quot;:{&quot;lines&quot;:[4,5]},&quot;v&quot;:&quot;51单片机学习&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:8,&quot;p&quot;:{&quot;lines&quot;:[5,6]},&quot;v&quot;:&quot;c++函数模板,函数重载,命名空间学习&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:8,&quot;p&quot;:{&quot;lines&quot;:[6,7]},&quot;v&quot;:&quot;&lt;a href=\&quot;http://www.autolabor.com.cn/book/ROSTutorials/\&quot;&gt;ros系统学习&lt;/a&gt;&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:8,&quot;p&quot;:{&quot;lines&quot;:[7,8]},&quot;v&quot;:&quot;Linux系统命令学习&quot;}]},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[8,9]},&quot;v&quot;:&quot;九月&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:8,&quot;p&quot;:{&quot;lines&quot;:[9,10]},&quot;v&quot;:&quot;在看网页前端html内容&quot;}]}]},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[10,11]},&quot;v&quot;:&quot;&lt;del&gt;项目&lt;/del&gt;&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[11,12]},&quot;v&quot;:&quot;(暂无)&quot;}]},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[12,13]},&quot;v&quot;:&quot;目前在干啥&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[13,14]},&quot;v&quot;:&quot;打无人机模拟比赛&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[14,15]},&quot;v&quot;:&quot;开始学esp32&quot;}]},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[15,16]},&quot;v&quot;:&quot;后面打算干啥&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[16,17]},&quot;v&quot;:&quot;想搞物联网方面的项目&quot;}]},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[17,18]},&quot;v&quot;:&quot;有无自己的项目&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[18,19]},&quot;v&quot;:&quot;(暂无)&quot;}]}]}"></svg>
+</div>
+ 
+<h2 id="反思"><a href="#反思" class="headerlink" title="反思"></a>反思</h2><ol>
+<li>目前没有任何项目T_T </li>
+<li>学的内容不够深入,有很多想要实现的功能不能很好的实现,自己所写的代码实现起来总是和实际有出入,需要大量调试.</li>
+<li>之前学的东西不够牢固,纯手写代码很难实现,常常需查阅资料来写.</li>
+<li>感觉暑假学的ros要实现起来成本很大,基本只能模拟.</li>
+</ol>
+<h2 id="未来"><a href="#未来" class="headerlink" title="未来"></a>未来</h2><ul>
+<li>一直对物联网比较感兴趣,之前做的考核项目也用了esp8266.</li>
+<li>esp32的性能比esp8266的好,故开始学esp32(打算用micropython来写,顺便学一个新语言)</li>
+</ul>
+<h2 id="疑问"><a href="#疑问" class="headerlink" title="疑问"></a>疑问</h2><ul>
+<li>不知我以上的方向是否对以后打比赛帮助</li>
+</ul>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>总结</tag>
       </tags>
   </entry>
   <entry>

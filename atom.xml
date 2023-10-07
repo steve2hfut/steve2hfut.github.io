@@ -6,7 +6,7 @@
   <link href="https://steve2hfut.github.io/atom.xml" rel="self"/>
   
   <link href="https://steve2hfut.github.io/"/>
-  <updated>2023-10-06T13:45:10.137Z</updated>
+  <updated>2023-10-07T07:27:13.965Z</updated>
   <id>https://steve2hfut.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>近期总结</title>
+    <link href="https://steve2hfut.github.io/2023/10/07/zongjie/"/>
+    <id>https://steve2hfut.github.io/2023/10/07/zongjie/</id>
+    <published>2023-10-07T04:13:32.000Z</published>
+    <updated>2023-10-07T07:27:13.965Z</updated>
+    
+    <content type="html"><![CDATA[<!-- ![](imag/tu/2.png) --><div class="markmap-container" style="height:height">  <svg data="{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[0,1]},&quot;v&quot;:&quot;近期总结&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[1,2]},&quot;v&quot;:&quot;学习内容&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[2,4]},&quot;v&quot;:&quot;暑假&lt;br&gt;\n(&lt;em&gt;第一个月大部分时间都在准备成图国赛&lt;/em&gt;)&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:8,&quot;p&quot;:{&quot;lines&quot;:[4,5]},&quot;v&quot;:&quot;51单片机学习&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:8,&quot;p&quot;:{&quot;lines&quot;:[5,6]},&quot;v&quot;:&quot;c++函数模板,函数重载,命名空间学习&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:8,&quot;p&quot;:{&quot;lines&quot;:[6,7]},&quot;v&quot;:&quot;&lt;a href=\&quot;http://www.autolabor.com.cn/book/ROSTutorials/\&quot;&gt;ros系统学习&lt;/a&gt;&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:8,&quot;p&quot;:{&quot;lines&quot;:[7,8]},&quot;v&quot;:&quot;Linux系统命令学习&quot;}]},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[8,9]},&quot;v&quot;:&quot;九月&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:8,&quot;p&quot;:{&quot;lines&quot;:[9,10]},&quot;v&quot;:&quot;在看网页前端html内容&quot;}]}]},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[10,11]},&quot;v&quot;:&quot;&lt;del&gt;项目&lt;/del&gt;&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[11,12]},&quot;v&quot;:&quot;(暂无)&quot;}]},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[12,13]},&quot;v&quot;:&quot;目前在干啥&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[13,14]},&quot;v&quot;:&quot;打无人机模拟比赛&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[14,15]},&quot;v&quot;:&quot;开始学esp32&quot;}]},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[15,16]},&quot;v&quot;:&quot;后面打算干啥&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[16,17]},&quot;v&quot;:&quot;想搞物联网方面的项目&quot;}]},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[17,18]},&quot;v&quot;:&quot;有无自己的项目&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[18,19]},&quot;v&quot;:&quot;(暂无)&quot;}]}]}"></svg></div> <h2 id="反思"><a href="#反思" class="headerlink" title="反思"></a>反思</h2><ol><li>目前没有任何项目T_T </li><li>学的内容不够深入,有很多想要实现的功能不能很好的实现,自己所写的代码实现起来总是和实际有出入,需要大量调试.</li><li>之前学的东西不够牢固,纯手写代码很难实现,常常需查阅资料来写.</li><li>感觉暑假学的ros要实现起来成本很大,基本只能模拟.</li></ol><h2 id="未来"><a href="#未来" class="headerlink" title="未来"></a>未来</h2><ul><li>一直对物联网比较感兴趣,之前做的考核项目也用了esp8266.</li><li>esp32的性能比esp8266的好,故开始学esp32(打算用micropython来写,顺便学一个新语言)</li></ul><h2 id="疑问"><a href="#疑问" class="headerlink" title="疑问"></a>疑问</h2><ul><li>不知我以上的方向是否对以后打比赛帮助</li></ul>]]></content>
+    
+    
+    <summary type="html">开学总结</summary>
+    
+    
+    
+    <category term="学习" scheme="https://steve2hfut.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="总结" scheme="https://steve2hfut.github.io/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
   
   <entry>
     <title>电荷总结1</title>
