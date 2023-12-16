@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://steve2hfut.github.io/2023/12/02/qingren/</loc>
+    
+    <lastmod>2023-12-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://steve2hfut.github.io/tags/index.html</loc>
     
     <lastmod>2023-12-13</lastmod>
@@ -275,14 +284,14 @@
   </url>
   
   <url>
-    <loc>https://steve2hfut.github.io/categories/%E8%BD%AC%E8%BD%BD/</loc>
+    <loc>https://steve2hfut.github.io/categories/%E6%96%B9%E6%B3%95/</loc>
     <lastmod>2023-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://steve2hfut.github.io/categories/%E6%96%B9%E6%B3%95/</loc>
+    <loc>https://steve2hfut.github.io/categories/%E8%BD%AC%E8%BD%BD/</loc>
     <lastmod>2023-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -297,6 +306,13 @@
   
   <url>
     <loc>https://steve2hfut.github.io/categories/%E5%AD%A6%E7%A7%91/</loc>
+    <lastmod>2023-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://steve2hfut.github.io/categories/%E6%9D%82/</loc>
     <lastmod>2023-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

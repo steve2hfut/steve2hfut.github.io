@@ -37,6 +37,31 @@
   </entry>
   
   <entry>
+    <title>杂</title>
+    <link href="https://steve2hfut.github.io/2023/12/02/qingren/"/>
+    <id>https://steve2hfut.github.io/2023/12/02/qingren/</id>
+    <published>2023-12-02T14:13:32.000Z</published>
+    <updated>2023-12-16T14:54:10.142Z</updated>
+    
+    <content type="html"><![CDATA[<p>“情人眼里出西施”这句话是关于审美和情感偏见的一个哲学概念。它意味着在恋人的眼中，对方无论优点还是缺点，都会被美化、被赋予更高的价值，使得对方看起来比实际上更美丽。</p><p>从哲学上来说，可以从以下几个角度理解这个现象：</p><ol><li>审美偏见：这是一种主观的观点，每个人对于美的定义和标准不同，当恋人眼中的“西施”在其他人眼中可能并不符合标准。这体现了审美观点的个体差异和主观性。</li><li>感情的影响：感情状态会影响人的认知和判断。恋人通常会因为感情的强烈而忽视了对方的缺点，只看到了优点。这体现了情感对认知的影响。</li><li>认知的自我验证：人们往往倾向于相信自己愿意相信的东西，倾向于接受符合自己观点的信息。也就是说，恋人们可能会选择性地接受自己喜欢的人的信息，从而不断地证实自己的观点，这也是一种认知模式。</li><li>进化生物学的解释：在进化过程中，那些对伴侣做出过度美化的求偶者，其生存和繁衍的机会可能会增加。因此，这一现象在一定程度上符合达尔文的择偶策略。</li></ol><p>“情人眼里出西施”这句话表达的是意识是客观世界的主观映象，既包含了唯物主义的观点，即认为物质第一性，精神第二性；又包含了唯心主义的观点，即认为意识决定物质。但更重要的是，它强调了意识的主观性和个体差异，反映了不同的人对同一事物会有不同的认识和评价，这更符合辩证唯物主义的观点。因此，”情人眼里出西施”既包含了唯物主义和唯心主义的元素，但更偏向于辩证唯物主义。</p><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;“情人眼里出西施”这句话是关于审美和情感偏见的一个哲学概念。它意味着在恋人的眼中，对方无论优点还是缺点，都会被美化、被赋予更高的价值，使得对方看起来比实际上更美丽。&lt;/p&gt;
+&lt;p&gt;从哲学上来说，可以从以下几个角度理解这个现象：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;审美偏见：这是一种主</summary>
+      
+    
+    
+    
+    <category term="杂" scheme="https://steve2hfut.github.io/categories/%E6%9D%82/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>esp_wifi_learn 1</title>
     <link href="https://steve2hfut.github.io/2023/11/05/wifi_learn_1/"/>
     <id>https://steve2hfut.github.io/2023/11/05/wifi_learn_1/</id>
@@ -134,27 +159,6 @@
   </entry>
   
   <entry>
-    <title>ChatGPT Next Web User Manual</title>
-    <link href="https://steve2hfut.github.io/2023/10/02/gtp_doc/"/>
-    <id>https://steve2hfut.github.io/2023/10/02/gtp_doc/</id>
-    <published>2023-10-02T14:13:32.000Z</published>
-    <updated>2023-12-13T03:02:44.841Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="用户手册-User-Manual"><a href="#用户手册-User-Manual" class="headerlink" title="用户手册 User Manual"></a>用户手册 User Manual</h1><blockquote><p>No english version yet, please read this doc with ChatGPT or other translation tools.</p></blockquote><p>本文档用于解释 ChatGPT Next Web 的部分功能介绍和设计原则。</p><h2 id="面具-Mask"><a href="#面具-Mask" class="headerlink" title="面具 (Mask)"></a>面具 (Mask)</h2><h3 id="什么是面具？它和提示词的区别是什么？"><a href="#什么是面具？它和提示词的区别是什么？" class="headerlink" title="什么是面具？它和提示词的区别是什么？"></a>什么是面具？它和提示词的区别是什么？</h3><p>面具 &#x3D; 多个预设提示词 + 模型设置 + 对话设置。</p><p>其中预设提示词（Contextual Prompts）一般用于 In-Context Learning，用于让 ChatGPT 生成更加符合要求的输出，也可以增加系统约束或者输入有限的额外知识。</p><p>模型设置则顾名思义，使用此面具创建的对话都会默认使用对应的模型参数。</p><p>对话设置是与对话体验相关的一系列设置，我们会在下方的章节中依次介绍。</p><h3 id="如何添加一个预设面具？"><a href="#如何添加一个预设面具？" class="headerlink" title="如何添加一个预设面具？"></a>如何添加一个预设面具？</h3><p>目前仅能够通过编辑源代码的方式添加预设面具，请根据需要编辑 <a href="../app/masks/">mask</a> 目录下对应语言的文件即可。</p><p>编辑步骤如下：</p><ol><li>在 ChatGPT Next Web 中配置好一个面具；</li><li>使用面具编辑页面的下载按钮，将面具保存为 JSON 格式；</li><li>让 ChatGPT 帮你将 json 文件格式化为对应的 ts 代码；</li><li>放入对应的 .ts 文件。</li></ol><p>后续会增加使用旁加载的方式加载面具。</p><h2 id="对话-Chat"><a href="#对话-Chat" class="headerlink" title="对话 (Chat)"></a>对话 (Chat)</h2><h3 id="对话框上方的按钮的作用"><a href="#对话框上方的按钮的作用" class="headerlink" title="对话框上方的按钮的作用"></a>对话框上方的按钮的作用</h3><p>在默认状态下，将鼠标移动到按钮上，即可查看按钮的文字说明，我们依次介绍：</p><ul><li>对话设置：当前对话的设置，它与全局设置的关系，请查看下一小节的说明；</li><li>颜色主题：点击即可在自动、暗黑、浅色之间轮换；</li><li>快捷指令：项目内置的快捷填充预设提示词，也可以在对话框中输入 &#x2F; 进行搜索；</li><li>所有面具：进入面具页面；</li><li>清除聊天：插入一个清除标记，标记上方的聊天将不会发给 GPT，效果相当于清除了当前对话，当然，你也可以再次点击该按钮，可取消清除；</li><li>模型设置：更改当前对话的模型，注意，此按钮只会修改当前对话的模型，并不会修改全局默认模型。</li></ul><h3 id="对话内设置与全局设置的关系"><a href="#对话内设置与全局设置的关系" class="headerlink" title="对话内设置与全局设置的关系"></a>对话内设置与全局设置的关系</h3><p>目前有两处设置入口：</p><ol><li>页面左下角的设置按钮，进入后是全局设置页；</li><li>对话框上方的设置按钮，进入后是对话设置页。</li></ol><p>在新建对话后，该对话的设置默认与全局设置保持同步，修改全局设置，则新建对话的对话内设置也会被同步修改。</p><p>一旦用户手动更改过对话内设置，则对话内设置将与全局设置断开同步，此时更改全局设置，将不会对该对话生效。</p><p>如果想恢复两者的同步关系，可以将“对话内设置 -&gt; 使用全局设置”选项勾选。</p><h3 id="对话内设置项的含义"><a href="#对话内设置项的含义" class="headerlink" title="对话内设置项的含义"></a>对话内设置项的含义</h3><p>点开对话框上方的按钮，进入对话内设置，内容从上到下依次为：</p><ul><li>预设提示词列表：可以增加、删除、排序预设提示词</li><li>角色头像：顾名思义</li><li>角色名称：顾名思义</li><li>隐藏预设对话：隐藏后，预设提示词不会出现在聊天界面</li><li>使用全局设置：用于表示当前对话是否使用全局对话设置</li><li>模型设置选项：剩余的选项与全局设置选项含义一致，见下一小节</li></ul><h3 id="全局设置项的含义"><a href="#全局设置项的含义" class="headerlink" title="全局设置项的含义"></a>全局设置项的含义</h3><ul><li>model &#x2F; temperature &#x2F; top_p &#x2F; max_tokens &#x2F; presence_penalty &#x2F; frequency_penalty 均为 ChatGPT 的设置参数，详情请查阅 OpenAI 官方文档，再次不再赘述；</li><li>注入系统级提示信息、用户输入预处理：详情请看 <a href="https://github.com/Yidadaa/ChatGPT-Next-Web/issues/2144">https://github.com/Yidadaa/ChatGPT-Next-Web/issues/2144</a></li><li>附带历史消息数：用户每次输入消息并发送时，所携带的最近 n 条消息数量；</li><li>历史消息长度压缩阈值：当已经产生的聊天字数达到该数值以后，则自动触发历史摘要功能；</li><li>历史摘要：是否启用历史摘要功能。</li></ul><h3 id="什么是历史摘要？"><a href="#什么是历史摘要？" class="headerlink" title="什么是历史摘要？"></a>什么是历史摘要？</h3><p>历史摘要功能，也是历史消息压缩功能，是保证长对话场景下保持历史记忆的关键，合理使用该功能可以在不丢失历史话题信息的情况下，节省所使用的 token。</p><p>由于 ChatGPT API 的长度限制，我们以 3.5 模型为例，它只能接受小于 4096 tokens 的对话消息，一旦超出这个数值，就会报错。</p><p>同时为了让 ChatGPT 理解我们对话的上下文，往往会携带多条历史消息来提供上下文信息，而当对话进行一段时间之后，很容易就会触发长度限制。</p><p>为了解决此问题，我们增加了历史记录压缩功能，假设阈值为 1000 字符，那么每次用户产生的聊天记录超过 1000 字符时，都会将没有被总结过的消息，发送给 ChatGPT，让其产生一个 100 字所有的摘要。</p><p>这样，历史信息就从 1000 字压缩到了 100 字，这是一种有损压缩，但已能满足大多数使用场景。</p><h3 id="什么时候应该关闭历史摘要？"><a href="#什么时候应该关闭历史摘要？" class="headerlink" title="什么时候应该关闭历史摘要？"></a>什么时候应该关闭历史摘要？</h3><p>历史摘要可能会影响 ChatGPT 的对话质量，所以如果对话场景是翻译、信息提取等一次性对话场景，请直接关闭历史摘要功能，并将历史消息数设置为 0。</p><h3 id="当用户发送一条消息时，有哪些信息被发送出去了？"><a href="#当用户发送一条消息时，有哪些信息被发送出去了？" class="headerlink" title="当用户发送一条消息时，有哪些信息被发送出去了？"></a>当用户发送一条消息时，有哪些信息被发送出去了？</h3><p>当用户在对话框输入了一条消息后，发送给 ChatGPT 的消息，包含以下几个部分：</p><ol><li>系统级提示词：用于尽可能贴近 ChatGPT 官方 WebUI 的使用体验，可在设置中关闭此信息；</li><li>历史摘要：作为长期记忆，提供长久但模糊的上下文信息；</li><li>预设提示词：当前对话内设置的预设提示词，用于 In-Context Learning 或者注入系统级限制；</li><li>最近 n 条对话记录：作为短期记忆，提供短暂但精确的上下文信息；</li><li>用户当前输入的消息。<!-- <div class="markmap-container" style="height:height">  <svg data="{&quot;t&quot;:&quot;root&quot;,&quot;d&quot;:0,&quot;v&quot;:&quot;&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[0,1]},&quot;v&quot;:&quot;粉色好看&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[1,2]},&quot;v&quot;:&quot;爱哭的&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[2,3]},&quot;v&quot;:&quot;两岸三地&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[3,4]},&quot;v&quot;:&quot;阿斯顿&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[4,5]},&quot;v&quot;:&quot;阿莎&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[5,6]},&quot;v&quot;:&quot;上的飞机&quot;}]}]}],&quot;p&quot;:{}}"></svg></div> --></li></ol><!-- <object data="mypdf/" type="application/pdf" width="100%" height="840"><iframe src="mypdf/" width="100%" height="840" style="border: none;">This browser does not support PDFs. Please download the PDF to view it: <a href="/index.pdf">Download PDF</a></iframe></object>   --><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
-    
-    
-    <summary type="html">本文档用于解释 ChatGPT Next Web 的部分功能介绍和设计原则。(备用)</summary>
-    
-    
-    
-    <category term="转载" scheme="https://steve2hfut.github.io/categories/%E8%BD%AC%E8%BD%BD/"/>
-    
-    
-    <category term="ai" scheme="https://steve2hfut.github.io/tags/ai/"/>
-    
-  </entry>
-  
-  <entry>
     <title>网站gtp使用方法</title>
     <link href="https://steve2hfut.github.io/2023/10/02/gtp_ai/"/>
     <id>https://steve2hfut.github.io/2023/10/02/gtp_ai/</id>
@@ -169,6 +173,27 @@
     
     
     <category term="方法" scheme="https://steve2hfut.github.io/categories/%E6%96%B9%E6%B3%95/"/>
+    
+    
+    <category term="ai" scheme="https://steve2hfut.github.io/tags/ai/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ChatGPT Next Web User Manual</title>
+    <link href="https://steve2hfut.github.io/2023/10/02/gtp_doc/"/>
+    <id>https://steve2hfut.github.io/2023/10/02/gtp_doc/</id>
+    <published>2023-10-02T14:13:32.000Z</published>
+    <updated>2023-12-13T03:02:44.841Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="用户手册-User-Manual"><a href="#用户手册-User-Manual" class="headerlink" title="用户手册 User Manual"></a>用户手册 User Manual</h1><blockquote><p>No english version yet, please read this doc with ChatGPT or other translation tools.</p></blockquote><p>本文档用于解释 ChatGPT Next Web 的部分功能介绍和设计原则。</p><h2 id="面具-Mask"><a href="#面具-Mask" class="headerlink" title="面具 (Mask)"></a>面具 (Mask)</h2><h3 id="什么是面具？它和提示词的区别是什么？"><a href="#什么是面具？它和提示词的区别是什么？" class="headerlink" title="什么是面具？它和提示词的区别是什么？"></a>什么是面具？它和提示词的区别是什么？</h3><p>面具 &#x3D; 多个预设提示词 + 模型设置 + 对话设置。</p><p>其中预设提示词（Contextual Prompts）一般用于 In-Context Learning，用于让 ChatGPT 生成更加符合要求的输出，也可以增加系统约束或者输入有限的额外知识。</p><p>模型设置则顾名思义，使用此面具创建的对话都会默认使用对应的模型参数。</p><p>对话设置是与对话体验相关的一系列设置，我们会在下方的章节中依次介绍。</p><h3 id="如何添加一个预设面具？"><a href="#如何添加一个预设面具？" class="headerlink" title="如何添加一个预设面具？"></a>如何添加一个预设面具？</h3><p>目前仅能够通过编辑源代码的方式添加预设面具，请根据需要编辑 <a href="../app/masks/">mask</a> 目录下对应语言的文件即可。</p><p>编辑步骤如下：</p><ol><li>在 ChatGPT Next Web 中配置好一个面具；</li><li>使用面具编辑页面的下载按钮，将面具保存为 JSON 格式；</li><li>让 ChatGPT 帮你将 json 文件格式化为对应的 ts 代码；</li><li>放入对应的 .ts 文件。</li></ol><p>后续会增加使用旁加载的方式加载面具。</p><h2 id="对话-Chat"><a href="#对话-Chat" class="headerlink" title="对话 (Chat)"></a>对话 (Chat)</h2><h3 id="对话框上方的按钮的作用"><a href="#对话框上方的按钮的作用" class="headerlink" title="对话框上方的按钮的作用"></a>对话框上方的按钮的作用</h3><p>在默认状态下，将鼠标移动到按钮上，即可查看按钮的文字说明，我们依次介绍：</p><ul><li>对话设置：当前对话的设置，它与全局设置的关系，请查看下一小节的说明；</li><li>颜色主题：点击即可在自动、暗黑、浅色之间轮换；</li><li>快捷指令：项目内置的快捷填充预设提示词，也可以在对话框中输入 &#x2F; 进行搜索；</li><li>所有面具：进入面具页面；</li><li>清除聊天：插入一个清除标记，标记上方的聊天将不会发给 GPT，效果相当于清除了当前对话，当然，你也可以再次点击该按钮，可取消清除；</li><li>模型设置：更改当前对话的模型，注意，此按钮只会修改当前对话的模型，并不会修改全局默认模型。</li></ul><h3 id="对话内设置与全局设置的关系"><a href="#对话内设置与全局设置的关系" class="headerlink" title="对话内设置与全局设置的关系"></a>对话内设置与全局设置的关系</h3><p>目前有两处设置入口：</p><ol><li>页面左下角的设置按钮，进入后是全局设置页；</li><li>对话框上方的设置按钮，进入后是对话设置页。</li></ol><p>在新建对话后，该对话的设置默认与全局设置保持同步，修改全局设置，则新建对话的对话内设置也会被同步修改。</p><p>一旦用户手动更改过对话内设置，则对话内设置将与全局设置断开同步，此时更改全局设置，将不会对该对话生效。</p><p>如果想恢复两者的同步关系，可以将“对话内设置 -&gt; 使用全局设置”选项勾选。</p><h3 id="对话内设置项的含义"><a href="#对话内设置项的含义" class="headerlink" title="对话内设置项的含义"></a>对话内设置项的含义</h3><p>点开对话框上方的按钮，进入对话内设置，内容从上到下依次为：</p><ul><li>预设提示词列表：可以增加、删除、排序预设提示词</li><li>角色头像：顾名思义</li><li>角色名称：顾名思义</li><li>隐藏预设对话：隐藏后，预设提示词不会出现在聊天界面</li><li>使用全局设置：用于表示当前对话是否使用全局对话设置</li><li>模型设置选项：剩余的选项与全局设置选项含义一致，见下一小节</li></ul><h3 id="全局设置项的含义"><a href="#全局设置项的含义" class="headerlink" title="全局设置项的含义"></a>全局设置项的含义</h3><ul><li>model &#x2F; temperature &#x2F; top_p &#x2F; max_tokens &#x2F; presence_penalty &#x2F; frequency_penalty 均为 ChatGPT 的设置参数，详情请查阅 OpenAI 官方文档，再次不再赘述；</li><li>注入系统级提示信息、用户输入预处理：详情请看 <a href="https://github.com/Yidadaa/ChatGPT-Next-Web/issues/2144">https://github.com/Yidadaa/ChatGPT-Next-Web/issues/2144</a></li><li>附带历史消息数：用户每次输入消息并发送时，所携带的最近 n 条消息数量；</li><li>历史消息长度压缩阈值：当已经产生的聊天字数达到该数值以后，则自动触发历史摘要功能；</li><li>历史摘要：是否启用历史摘要功能。</li></ul><h3 id="什么是历史摘要？"><a href="#什么是历史摘要？" class="headerlink" title="什么是历史摘要？"></a>什么是历史摘要？</h3><p>历史摘要功能，也是历史消息压缩功能，是保证长对话场景下保持历史记忆的关键，合理使用该功能可以在不丢失历史话题信息的情况下，节省所使用的 token。</p><p>由于 ChatGPT API 的长度限制，我们以 3.5 模型为例，它只能接受小于 4096 tokens 的对话消息，一旦超出这个数值，就会报错。</p><p>同时为了让 ChatGPT 理解我们对话的上下文，往往会携带多条历史消息来提供上下文信息，而当对话进行一段时间之后，很容易就会触发长度限制。</p><p>为了解决此问题，我们增加了历史记录压缩功能，假设阈值为 1000 字符，那么每次用户产生的聊天记录超过 1000 字符时，都会将没有被总结过的消息，发送给 ChatGPT，让其产生一个 100 字所有的摘要。</p><p>这样，历史信息就从 1000 字压缩到了 100 字，这是一种有损压缩，但已能满足大多数使用场景。</p><h3 id="什么时候应该关闭历史摘要？"><a href="#什么时候应该关闭历史摘要？" class="headerlink" title="什么时候应该关闭历史摘要？"></a>什么时候应该关闭历史摘要？</h3><p>历史摘要可能会影响 ChatGPT 的对话质量，所以如果对话场景是翻译、信息提取等一次性对话场景，请直接关闭历史摘要功能，并将历史消息数设置为 0。</p><h3 id="当用户发送一条消息时，有哪些信息被发送出去了？"><a href="#当用户发送一条消息时，有哪些信息被发送出去了？" class="headerlink" title="当用户发送一条消息时，有哪些信息被发送出去了？"></a>当用户发送一条消息时，有哪些信息被发送出去了？</h3><p>当用户在对话框输入了一条消息后，发送给 ChatGPT 的消息，包含以下几个部分：</p><ol><li>系统级提示词：用于尽可能贴近 ChatGPT 官方 WebUI 的使用体验，可在设置中关闭此信息；</li><li>历史摘要：作为长期记忆，提供长久但模糊的上下文信息；</li><li>预设提示词：当前对话内设置的预设提示词，用于 In-Context Learning 或者注入系统级限制；</li><li>最近 n 条对话记录：作为短期记忆，提供短暂但精确的上下文信息；</li><li>用户当前输入的消息。<!-- <div class="markmap-container" style="height:height">  <svg data="{&quot;t&quot;:&quot;root&quot;,&quot;d&quot;:0,&quot;v&quot;:&quot;&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[0,1]},&quot;v&quot;:&quot;粉色好看&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[1,2]},&quot;v&quot;:&quot;爱哭的&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[2,3]},&quot;v&quot;:&quot;两岸三地&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[3,4]},&quot;v&quot;:&quot;阿斯顿&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[4,5]},&quot;v&quot;:&quot;阿莎&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[5,6]},&quot;v&quot;:&quot;上的飞机&quot;}]}]}],&quot;p&quot;:{}}"></svg></div> --></li></ol><!-- <object data="mypdf/" type="application/pdf" width="100%" height="840"><iframe src="mypdf/" width="100%" height="840" style="border: none;">This browser does not support PDFs. Please download the PDF to view it: <a href="/index.pdf">Download PDF</a></iframe></object>   --><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+    
+    
+    <summary type="html">本文档用于解释 ChatGPT Next Web 的部分功能介绍和设计原则。(备用)</summary>
+    
+    
+    
+    <category term="转载" scheme="https://steve2hfut.github.io/categories/%E8%BD%AC%E8%BD%BD/"/>
     
     
     <category term="ai" scheme="https://steve2hfut.github.io/tags/ai/"/>
