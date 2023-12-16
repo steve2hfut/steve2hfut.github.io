@@ -20,7 +20,7 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 
 <h3 id="柯南壁纸"><a href="#柯南壁纸" class="headerlink" title="柯南壁纸"></a>柯南壁纸</h3><p><img src="https://pic3.zhimg.com/80/v2-2c77f5d2a2540dd00e1c049b065e9326_1440w.webp"><br><img src="https://pic2.zhimg.com/80/v2-07602b493a1c8bf2e4936ed3027a8485_1440w.webp"><br><img src="https://pic2.zhimg.com/80/v2-7fb54e9fb65479223f527596bcd11fd5_1440w.webp"><br><img src="https://pic1.zhimg.com/80/v2-e8c298dc9bb82410247a11d9866bc278_1440w.webp"><br><img src="https://i0.hdslb.com/bfs/article/772d11b1d2c05447b8f3b985ef73f4cb0ed0663b.jpg@1256w_1828h_!web-article-pic.webp"></p>
 <hr>
-<h6 id="以上图片来源网络，侵删"><a href="#以上图片来源网络，侵删" class="headerlink" title="以上图片来源网络，侵删"></a>以上图片来源网络，侵删</h6>]]></content>
+<h6 id="以上图片来源网络，侵删"><a href="#以上图片来源网络，侵删" class="headerlink" title="以上图片来源网络，侵删"></a>以上图片来源网络，侵删</h6><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       <categories>
         <category>壁纸</category>
       </categories>
@@ -48,64 +48,12 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 </object>   -->
 
 
-]]></content>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       <categories>
         <category>测试</category>
       </categories>
       <tags>
         <tag>图片</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>网站gtp使用方法</title>
-    <url>/2023/10/02/gtp_ai/</url>
-    <content><![CDATA[<h1 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h1><h2 id="获取国内免费的中转官网api"><a href="#获取国内免费的中转官网api" class="headerlink" title="获取国内免费的中转官网api"></a>获取国内免费的中转官网api</h2><ol>
-<li>直接点这个<a href="https://api.chatanywhere.org/v1/oauth/free/github/render">链接</a>  </li>
-<li>然后用GitHub账号登录<br><img src="https://pic.imgdb.cn/item/651acab9c458853aef17902c.png"></li>
-<li>登录后会看到你的<strong>免费API Key</strong></li>
-<li>记住(复制)这个key</li>
-</ol>
-<h1 id="第二部"><a href="#第二部" class="headerlink" title="第二部"></a>第二部</h1><h2 id="进入本站网址"><a href="#进入本站网址" class="headerlink" title="进入本站网址"></a>进入本站<a href="https://gtp.stevehfut.top/">网址</a></h2><blockquote>
-<p>本站导航栏也有此网址 </p>
-</blockquote>
-<ol>
-<li>进入设置界面<br><img src="https://pic.imgdb.cn/item/651add32c458853aef1b2d2a.png">  </li>
-<li>在<code>1</code>中填入<br> <code>https://api.chatanywhere.com.cn</code><br> 在<code>2</code>中填入第一步中你获得的<code>api-key</code><br><img src="https://pic.imgdb.cn/item/651ade3bc458853aef1b9c66.png"> </li>
-<li>其他的配置看个人默认就好,若要更详细的使用文档<br>请点此处直接看<a href="https://github.com/Yidadaa/ChatGPT-Next-Web/blob/main/docs/user-manual-cn.md">官方文档</a>  <blockquote>
-<p>考虑到官网的访问速度比较慢你可以直接看本站的<a href="/2023/10/02/gtp_doc/">copy副本</a></p>
-</blockquote>
-</li>
-</ol>
-<h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><ol>
-<li>GitHub账号需要注册满<code>七天</code>才能获取<code>api-key</code>  </li>
-<li>此api-key有每小时<strong>60</strong>次请求的限制,注意额度使用</li>
-</ol>
-<h2 id="参考及项目来源"><a href="#参考及项目来源" class="headerlink" title="参考及项目来源"></a>参考及项目来源</h2><ol>
-<li><a href="https://github.com/Yidadaa/ChatGPT-Next-Web">https://github.com/Yidadaa/ChatGPT-Next-Web</a></li>
-<li><a href="https://github.com/chatanywhere/GPT_API_free">https://github.com/chatanywhere/GPT_API_free</a></li>
-</ol>
-<!-- 
-<div class="markmap-container" style="height:height">
-  <svg data="{&quot;t&quot;:&quot;root&quot;,&quot;d&quot;:0,&quot;v&quot;:&quot;&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[0,1]},&quot;v&quot;:&quot;粉色好看&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[1,2]},&quot;v&quot;:&quot;爱哭的&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[2,3]},&quot;v&quot;:&quot;两岸三地&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[3,4]},&quot;v&quot;:&quot;阿斯顿&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[4,5]},&quot;v&quot;:&quot;阿莎&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[5,6]},&quot;v&quot;:&quot;上的飞机&quot;}]}]}],&quot;p&quot;:{}}"></svg>
-</div>
- -->
-
-<!-- <object data="mypdf/" type="application/pdf" width="100%" height="840">
-
-<iframe src="mypdf/" width="100%" height="840" style="border: none;">
-
-This browser does not support PDFs. Please download the PDF to view it: <a href="/index.pdf">Download PDF</a>
-
-</iframe>
-</object>   -->
-
-
-]]></content>
-      <categories>
-        <category>方法</category>
-      </categories>
-      <tags>
-        <tag>ai</tag>
       </tags>
   </entry>
   <entry>
@@ -189,9 +137,61 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 </object>   -->
 
 
-]]></content>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       <categories>
         <category>转载</category>
+      </categories>
+      <tags>
+        <tag>ai</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网站gtp使用方法</title>
+    <url>/2023/10/02/gtp_ai/</url>
+    <content><![CDATA[<h1 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h1><h2 id="获取国内免费的中转官网api"><a href="#获取国内免费的中转官网api" class="headerlink" title="获取国内免费的中转官网api"></a>获取国内免费的中转官网api</h2><ol>
+<li>直接点这个<a href="https://api.chatanywhere.org/v1/oauth/free/github/render">链接</a>  </li>
+<li>然后用GitHub账号登录<br><img src="https://pic.imgdb.cn/item/651acab9c458853aef17902c.png"></li>
+<li>登录后会看到你的<strong>免费API Key</strong></li>
+<li>记住(复制)这个key</li>
+</ol>
+<h1 id="第二部"><a href="#第二部" class="headerlink" title="第二部"></a>第二部</h1><h2 id="进入本站网址"><a href="#进入本站网址" class="headerlink" title="进入本站网址"></a>进入本站<a href="https://gtp.stevehfut.top/">网址</a></h2><blockquote>
+<p>本站导航栏也有此网址 </p>
+</blockquote>
+<ol>
+<li>进入设置界面<br><img src="https://pic.imgdb.cn/item/651add32c458853aef1b2d2a.png">  </li>
+<li>在<code>1</code>中填入<br> <code>https://api.chatanywhere.com.cn</code><br> 在<code>2</code>中填入第一步中你获得的<code>api-key</code><br><img src="https://pic.imgdb.cn/item/651ade3bc458853aef1b9c66.png"> </li>
+<li>其他的配置看个人默认就好,若要更详细的使用文档<br>请点此处直接看<a href="https://github.com/Yidadaa/ChatGPT-Next-Web/blob/main/docs/user-manual-cn.md">官方文档</a>  <blockquote>
+<p>考虑到官网的访问速度比较慢你可以直接看本站的<a href="/2023/10/02/gtp_doc/">copy副本</a></p>
+</blockquote>
+</li>
+</ol>
+<h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><ol>
+<li>GitHub账号需要注册满<code>七天</code>才能获取<code>api-key</code>  </li>
+<li>此api-key有每小时<strong>60</strong>次请求的限制,注意额度使用</li>
+</ol>
+<h2 id="参考及项目来源"><a href="#参考及项目来源" class="headerlink" title="参考及项目来源"></a>参考及项目来源</h2><ol>
+<li><a href="https://github.com/Yidadaa/ChatGPT-Next-Web">https://github.com/Yidadaa/ChatGPT-Next-Web</a></li>
+<li><a href="https://github.com/chatanywhere/GPT_API_free">https://github.com/chatanywhere/GPT_API_free</a></li>
+</ol>
+<!-- 
+<div class="markmap-container" style="height:height">
+  <svg data="{&quot;t&quot;:&quot;root&quot;,&quot;d&quot;:0,&quot;v&quot;:&quot;&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[0,1]},&quot;v&quot;:&quot;粉色好看&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[1,2]},&quot;v&quot;:&quot;爱哭的&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[2,3]},&quot;v&quot;:&quot;两岸三地&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[3,4]},&quot;v&quot;:&quot;阿斯顿&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[4,5]},&quot;v&quot;:&quot;阿莎&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[5,6]},&quot;v&quot;:&quot;上的飞机&quot;}]}]}],&quot;p&quot;:{}}"></svg>
+</div>
+ -->
+
+<!-- <object data="mypdf/" type="application/pdf" width="100%" height="840">
+
+<iframe src="mypdf/" width="100%" height="840" style="border: none;">
+
+This browser does not support PDFs. Please download the PDF to view it: <a href="/index.pdf">Download PDF</a>
+
+</iframe>
+</object>   -->
+
+
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>方法</category>
       </categories>
       <tags>
         <tag>ai</tag>
@@ -213,38 +213,7 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>PS2_esp32_control</title>
-    <url>/2023/11/04/learn_ps2_control/</url>
-    <content><![CDATA[<h1 id="for-esp32"><a href="#for-esp32" class="headerlink" title="for esp32"></a>for esp32</h1><h2 id="basic-from-the-example"><a href="#basic-from-the-example" class="headerlink" title="(basic) from the example"></a>(basic) from the example</h2><h3 id="first-include-the-lib"><a href="#first-include-the-lib" class="headerlink" title="first include the lib"></a>first include the lib</h3><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;PS2X_lib.h&gt;</span> </span></span><br></pre></td></tr></table></figure>
-
-<h3 id="define-the-pin"><a href="#define-the-pin" class="headerlink" title="define the pin"></a>define the pin</h3><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">define</span> PS2_DAT        19  <span class="comment">//MISO  19</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> PS2_CMD        23  <span class="comment">//MOSI  23</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> PS2_SEL         5  <span class="comment">//SS     5</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> PS2_CLK        18  <span class="comment">//SLK   18</span></span></span><br></pre></td></tr></table></figure>
-
-<h3 id="mode-select"><a href="#mode-select" class="headerlink" title="mode select"></a>mode select</h3><ul>
-<li>select modes of PS2 controller:</li>
-<li><ul>
-<li>pressures &#x3D; analog reading of push-butttons</li>
-</ul>
-</li>
-<li><ul>
-<li>rumble    &#x3D; motor rumbling 震动</li>
-</ul>
-</li>
-<li>uncomment 1 of the lines for each mode selection</li>
-</ul>
-<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">define</span> pressures   false</span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> rumble      false</span></span><br></pre></td></tr></table></figure>
-<h3 id="normal-plan"><a href="#normal-plan" class="headerlink" title="normal plan"></a>normal plan</h3><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line">PS2X ps2x; <span class="comment">// create PS2 Controller Class</span></span><br><span class="line"></span><br><span class="line"><span class="comment">//right now, the library does NOT support hot pluggable controllers, meaning</span></span><br><span class="line"><span class="comment">//you must always either restart your Arduino after you connect the controller,</span></span><br><span class="line"><span class="comment">//or call config_gamepad(pins) again after connecting the controller.</span></span><br><span class="line"></span><br><span class="line"><span class="type">int</span> error = <span class="number">-1</span>;</span><br><span class="line">byte type = <span class="number">0</span>;</span><br><span class="line">byte vibrate = <span class="number">0</span>;</span><br><span class="line"><span class="type">int</span> tryNum = <span class="number">1</span>;</span><br></pre></td></tr></table></figure>
-<h4 id="initialization"><a href="#initialization" class="headerlink" title="initialization"></a>initialization</h4><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="keyword">while</span> (error != <span class="number">0</span>) &#123;</span><br><span class="line">  <span class="built_in">delay</span>(<span class="number">1000</span>);<span class="comment">// 1 second wait</span></span><br><span class="line">  <span class="comment">//setup pins and settings: GamePad(clock, command, attention, data, Pressures?, Rumble?) check for error</span></span><br><span class="line">  error = ps2x.<span class="built_in">config_gamepad</span>(PS2_CLK, PS2_CMD, PS2_SEL, PS2_DAT, pressures, rumble);</span><br><span class="line">  Serial.<span class="built_in">print</span>(<span class="string">&quot;#try config &quot;</span>);</span><br><span class="line">  Serial.<span class="built_in">println</span>(tryNum);</span><br><span class="line">  tryNum ++;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<h4 id="read-the-value-plan"><a href="#read-the-value-plan" class="headerlink" title="read the value plan"></a>read the value plan</h4><h5 id="first"><a href="#first" class="headerlink" title="first"></a>first</h5><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line">ps2x.<span class="built_in">read_gamepad</span>(<span class="literal">false</span>, vibrate); <span class="comment">//read controller and set large motor to spin at &#x27;vibrate&#x27; speed</span></span><br></pre></td></tr></table></figure>
-<h5 id="read"><a href="#read" class="headerlink" title="read"></a>read</h5><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="comment">//will be TRUE as long as button is pressed</span></span><br><span class="line"><span class="comment">// 长按</span></span><br><span class="line"><span class="keyword">if</span>(ps2x.<span class="built_in">Button</span>(PSB_START))</span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;Start is being held&quot;</span>);</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">vibrate = ps2x.<span class="built_in">Analog</span>(PSAB_CROSS);  <span class="comment">//this will set the large motor vibrate speed based on how hard you press the blue (X) button</span></span><br><span class="line"><span class="keyword">if</span> (ps2x.<span class="built_in">NewButtonState</span>()) &#123;        <span class="comment">//will be TRUE if any button changes state (on to off, or off to on)</span></span><br><span class="line">    <span class="keyword">if</span>(ps2x.<span class="built_in">Button</span>(PSB_L3))</span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;L3 pressed&quot;</span>);</span><br><span class="line">    <span class="keyword">if</span>(ps2x.<span class="built_in">Button</span>(PSB_R3))</span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;R3 pressed&quot;</span>);</span><br><span class="line">    <span class="keyword">if</span>(ps2x.<span class="built_in">Button</span>(PSB_L2))</span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;L2 pressed&quot;</span>);</span><br><span class="line">    <span class="keyword">if</span>(ps2x.<span class="built_in">Button</span>(PSB_R2))</span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;R2 pressed&quot;</span>);</span><br><span class="line">    <span class="keyword">if</span>(ps2x.<span class="built_in">Button</span>(PSB_TRIANGLE))</span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;△ pressed&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">//△□○×</span></span><br><span class="line"><span class="keyword">if</span>(ps2x.<span class="built_in">ButtonPressed</span>(PSB_CIRCLE))               <span class="comment">//will be TRUE if button was JUST pressed</span></span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;○ just pressed&quot;</span>);</span><br><span class="line"><span class="keyword">if</span>(ps2x.<span class="built_in">NewButtonState</span>(PSB_CROSS))               <span class="comment">//will be TRUE if button was JUST pressed OR released</span></span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;× just changed&quot;</span>);</span><br><span class="line"><span class="keyword">if</span>(ps2x.<span class="built_in">ButtonReleased</span>(PSB_SQUARE))              <span class="comment">//will be TRUE if button was JUST released</span></span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;□ just released&quot;</span>);</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>学习</category>
-      </categories>
-      <tags>
-        <tag>esp32</tag>
-      </tags>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
   </entry>
   <entry>
     <title>机械动力学</title>
@@ -277,9 +246,40 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 <li>车辆颠簸：会引起乘客不适，甚至导致晕车。</li>
 <li>洗衣机震动：如果不稳定，会产生噪音、损坏机器、影响使用寿命。</li>
 </ol>
-]]></content>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       <tags>
         <tag>作业</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PS2_esp32_control</title>
+    <url>/2023/11/04/learn_ps2_control/</url>
+    <content><![CDATA[<h1 id="for-esp32"><a href="#for-esp32" class="headerlink" title="for esp32"></a>for esp32</h1><h2 id="basic-from-the-example"><a href="#basic-from-the-example" class="headerlink" title="(basic) from the example"></a>(basic) from the example</h2><h3 id="first-include-the-lib"><a href="#first-include-the-lib" class="headerlink" title="first include the lib"></a>first include the lib</h3><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;PS2X_lib.h&gt;</span> </span></span><br></pre></td></tr></table></figure>
+
+<h3 id="define-the-pin"><a href="#define-the-pin" class="headerlink" title="define the pin"></a>define the pin</h3><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">define</span> PS2_DAT        19  <span class="comment">//MISO  19</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> PS2_CMD        23  <span class="comment">//MOSI  23</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> PS2_SEL         5  <span class="comment">//SS     5</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> PS2_CLK        18  <span class="comment">//SLK   18</span></span></span><br></pre></td></tr></table></figure>
+
+<h3 id="mode-select"><a href="#mode-select" class="headerlink" title="mode select"></a>mode select</h3><ul>
+<li>select modes of PS2 controller:</li>
+<li><ul>
+<li>pressures &#x3D; analog reading of push-butttons</li>
+</ul>
+</li>
+<li><ul>
+<li>rumble    &#x3D; motor rumbling 震动</li>
+</ul>
+</li>
+<li>uncomment 1 of the lines for each mode selection</li>
+</ul>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">define</span> pressures   false</span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> rumble      false</span></span><br></pre></td></tr></table></figure>
+<h3 id="normal-plan"><a href="#normal-plan" class="headerlink" title="normal plan"></a>normal plan</h3><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line">PS2X ps2x; <span class="comment">// create PS2 Controller Class</span></span><br><span class="line"></span><br><span class="line"><span class="comment">//right now, the library does NOT support hot pluggable controllers, meaning</span></span><br><span class="line"><span class="comment">//you must always either restart your Arduino after you connect the controller,</span></span><br><span class="line"><span class="comment">//or call config_gamepad(pins) again after connecting the controller.</span></span><br><span class="line"></span><br><span class="line"><span class="type">int</span> error = <span class="number">-1</span>;</span><br><span class="line">byte type = <span class="number">0</span>;</span><br><span class="line">byte vibrate = <span class="number">0</span>;</span><br><span class="line"><span class="type">int</span> tryNum = <span class="number">1</span>;</span><br></pre></td></tr></table></figure>
+<h4 id="initialization"><a href="#initialization" class="headerlink" title="initialization"></a>initialization</h4><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="keyword">while</span> (error != <span class="number">0</span>) &#123;</span><br><span class="line">  <span class="built_in">delay</span>(<span class="number">1000</span>);<span class="comment">// 1 second wait</span></span><br><span class="line">  <span class="comment">//setup pins and settings: GamePad(clock, command, attention, data, Pressures?, Rumble?) check for error</span></span><br><span class="line">  error = ps2x.<span class="built_in">config_gamepad</span>(PS2_CLK, PS2_CMD, PS2_SEL, PS2_DAT, pressures, rumble);</span><br><span class="line">  Serial.<span class="built_in">print</span>(<span class="string">&quot;#try config &quot;</span>);</span><br><span class="line">  Serial.<span class="built_in">println</span>(tryNum);</span><br><span class="line">  tryNum ++;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h4 id="read-the-value-plan"><a href="#read-the-value-plan" class="headerlink" title="read the value plan"></a>read the value plan</h4><h5 id="first"><a href="#first" class="headerlink" title="first"></a>first</h5><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line">ps2x.<span class="built_in">read_gamepad</span>(<span class="literal">false</span>, vibrate); <span class="comment">//read controller and set large motor to spin at &#x27;vibrate&#x27; speed</span></span><br></pre></td></tr></table></figure>
+<h5 id="read"><a href="#read" class="headerlink" title="read"></a>read</h5><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="comment">//will be TRUE as long as button is pressed</span></span><br><span class="line"><span class="comment">// 长按</span></span><br><span class="line"><span class="keyword">if</span>(ps2x.<span class="built_in">Button</span>(PSB_START))</span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;Start is being held&quot;</span>);</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">vibrate = ps2x.<span class="built_in">Analog</span>(PSAB_CROSS);  <span class="comment">//this will set the large motor vibrate speed based on how hard you press the blue (X) button</span></span><br><span class="line"><span class="keyword">if</span> (ps2x.<span class="built_in">NewButtonState</span>()) &#123;        <span class="comment">//will be TRUE if any button changes state (on to off, or off to on)</span></span><br><span class="line">    <span class="keyword">if</span>(ps2x.<span class="built_in">Button</span>(PSB_L3))</span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;L3 pressed&quot;</span>);</span><br><span class="line">    <span class="keyword">if</span>(ps2x.<span class="built_in">Button</span>(PSB_R3))</span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;R3 pressed&quot;</span>);</span><br><span class="line">    <span class="keyword">if</span>(ps2x.<span class="built_in">Button</span>(PSB_L2))</span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;L2 pressed&quot;</span>);</span><br><span class="line">    <span class="keyword">if</span>(ps2x.<span class="built_in">Button</span>(PSB_R2))</span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;R2 pressed&quot;</span>);</span><br><span class="line">    <span class="keyword">if</span>(ps2x.<span class="built_in">Button</span>(PSB_TRIANGLE))</span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;△ pressed&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">//△□○×</span></span><br><span class="line"><span class="keyword">if</span>(ps2x.<span class="built_in">ButtonPressed</span>(PSB_CIRCLE))               <span class="comment">//will be TRUE if button was JUST pressed</span></span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;○ just pressed&quot;</span>);</span><br><span class="line"><span class="keyword">if</span>(ps2x.<span class="built_in">NewButtonState</span>(PSB_CROSS))               <span class="comment">//will be TRUE if button was JUST pressed OR released</span></span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;× just changed&quot;</span>);</span><br><span class="line"><span class="keyword">if</span>(ps2x.<span class="built_in">ButtonReleased</span>(PSB_SQUARE))              <span class="comment">//will be TRUE if button was JUST released</span></span><br><span class="line">    Serial.<span class="built_in">println</span>(<span class="string">&quot;□ just released&quot;</span>);</span><br></pre></td></tr></table></figure><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>esp32</tag>
       </tags>
   </entry>
   <entry>
@@ -302,7 +302,7 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 <div class="markmap-container" style="height:height">
   <svg data="{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[0,2]},&quot;v&quot;:&quot;&#39;&lt;strong&gt;汇交力系的合成&lt;/strong&gt;&#39;&lt;br&gt;\n各力的作用线汇交于一点的力系称为汇交力系&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[2,3]},&quot;v&quot;:&quot;汇交力系合成的几何法&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[3,4]},&quot;v&quot;:&quot;汇交力系合成的解析法&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[4,5]},&quot;v&quot;:&quot;789&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[5,6]},&quot;v&quot;:&quot;98s9d&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:8,&quot;p&quot;:{&quot;lines&quot;:[6,7]},&quot;v&quot;:&quot;asd&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:8,&quot;p&quot;:{&quot;lines&quot;:[7,8]},&quot;v&quot;:&quot;lkad&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:8,&quot;p&quot;:{&quot;lines&quot;:[8,9]},&quot;v&quot;:&quot;skdj&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:10,&quot;p&quot;:{&quot;lines&quot;:[9,10]},&quot;v&quot;:&quot;asda&quot;}]},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:8,&quot;p&quot;:{&quot;lines&quot;:[10,11]},&quot;v&quot;:&quot;asd&quot;}]}]}]}"></svg>
 </div>
-]]></content>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       <categories>
         <category>测试</category>
       </categories>
@@ -327,7 +327,7 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 
 
 
-]]></content>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       <categories>
         <category>学科</category>
       </categories>
@@ -364,7 +364,7 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 <p>[^let me try]:no impossible</p>
 <p>可能这个页面不支持</p>
 <h2 id="来源"><a href="#来源" class="headerlink" title="来源"></a>来源</h2><p>学习于<br><a href="https://www.runoob.com/markdown/md-paragraph.html">菜鸟教程</a></p>
-]]></content>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       <categories>
         <category>学习</category>
       </categories>
@@ -463,7 +463,7 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 <p>测试  </p>
 <p>$$<br>\begin{Bmatrix}<br>   a &amp; b \<br>   c &amp; d<br>\end{Bmatrix}<br>$$<br>$$<br>\begin{CD}<br>   A @&gt;3&gt;&gt; B \<br>@VbVV @AAcA \<br>   C @&#x3D; D<br>\end{CD}<br>$$</p>
 <h2 id="来源"><a href="#来源" class="headerlink" title="来源"></a>来源</h2><p>学习于<br><a href="https://www.runoob.com/markdown/md-paragraph.html">菜鸟教程</a></p>
-]]></content>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       <categories>
         <category>学习</category>
       </categories>
@@ -501,7 +501,7 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 
 
 
-]]></content>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       <categories>
         <category>学习</category>
       </categories>
@@ -513,7 +513,7 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
     <title>电荷总结1</title>
     <url>/2023/10/06/wuli1/</url>
     <content><![CDATA[<p><img src="/imag/%E7%94%B5%E8%8D%B7_%E7%BA%AF%E5%9B%BE%E7%89%88(OCR)(1)/%E7%94%B5%E8%8D%B7_%E7%BA%AF%E5%9B%BE%E7%89%88(OCR)(1)_00.jpg"><br><img src="/imag/%E7%94%B5%E8%8D%B7_%E7%BA%AF%E5%9B%BE%E7%89%88(OCR)(1)/%E7%94%B5%E8%8D%B7_%E7%BA%AF%E5%9B%BE%E7%89%88(OCR)(1)_01.jpg"><br><img src="/imag/%E7%94%B5%E8%8D%B7_%E7%BA%AF%E5%9B%BE%E7%89%88(OCR)(1)/%E7%94%B5%E8%8D%B7_%E7%BA%AF%E5%9B%BE%E7%89%88(OCR)(1)_02.jpg"><br><img src="/imag/%E7%94%B5%E8%8D%B7_%E7%BA%AF%E5%9B%BE%E7%89%88(OCR)(1)/%E7%94%B5%E8%8D%B7_%E7%BA%AF%E5%9B%BE%E7%89%88(OCR)(1)_03.jpg"><br><img src="/imag/%E7%94%B5%E8%8D%B7_%E7%BA%AF%E5%9B%BE%E7%89%88(OCR)(1)/%E7%94%B5%E8%8D%B7_%E7%BA%AF%E5%9B%BE%E7%89%88(OCR)(1)_04.jpg"><br><img src="/imag/%E7%94%B5%E8%8D%B7_%E7%BA%AF%E5%9B%BE%E7%89%88(OCR)(1)/%E7%94%B5%E8%8D%B7_%E7%BA%AF%E5%9B%BE%E7%89%88(OCR)(1)_05.jpg"></p>
-]]></content>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       <categories>
         <category>学科</category>
       </categories>
@@ -522,41 +522,10 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
       </tags>
   </entry>
   <entry>
-    <title>近期总结</title>
-    <url>/2023/10/07/zongjie/</url>
-    <content><![CDATA[<!-- ![](imag/tu/2.png) -->
-
-
-<div class="markmap-container" style="height:height">
-  <svg data="{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:2,&quot;p&quot;:{&quot;lines&quot;:[0,1]},&quot;v&quot;:&quot;近期总结&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[1,2]},&quot;v&quot;:&quot;学习内容&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[2,4]},&quot;v&quot;:&quot;暑假&lt;br&gt;\n(&lt;em&gt;第一个月大部分时间都在准备成图国赛&lt;/em&gt;)&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:8,&quot;p&quot;:{&quot;lines&quot;:[4,5]},&quot;v&quot;:&quot;51单片机学习&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:8,&quot;p&quot;:{&quot;lines&quot;:[5,6]},&quot;v&quot;:&quot;c++函数模板,函数重载,命名空间学习&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:8,&quot;p&quot;:{&quot;lines&quot;:[6,7]},&quot;v&quot;:&quot;&lt;a href=\&quot;http://www.autolabor.com.cn/book/ROSTutorials/\&quot;&gt;ros系统学习&lt;/a&gt;&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:8,&quot;p&quot;:{&quot;lines&quot;:[7,8]},&quot;v&quot;:&quot;Linux系统命令学习&quot;}]},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[8,9]},&quot;v&quot;:&quot;九月&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:8,&quot;p&quot;:{&quot;lines&quot;:[9,10]},&quot;v&quot;:&quot;在看网页前端html内容&quot;}]}]},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[10,11]},&quot;v&quot;:&quot;&lt;del&gt;项目&lt;/del&gt;&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[11,12]},&quot;v&quot;:&quot;(暂无)&quot;}]},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[12,13]},&quot;v&quot;:&quot;目前在干啥&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[13,14]},&quot;v&quot;:&quot;打无人机模拟比赛&quot;},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[14,15]},&quot;v&quot;:&quot;开始学esp32&quot;}]},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[15,16]},&quot;v&quot;:&quot;后面打算干啥&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[16,17]},&quot;v&quot;:&quot;想搞物联网方面的项目&quot;}]},{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:4,&quot;p&quot;:{&quot;lines&quot;:[17,18]},&quot;v&quot;:&quot;有无自己的项目&quot;,&quot;c&quot;:[{&quot;t&quot;:&quot;list_item&quot;,&quot;d&quot;:6,&quot;p&quot;:{&quot;lines&quot;:[18,19]},&quot;v&quot;:&quot;(暂无)&quot;}]}]}"></svg>
-</div>
- 
-<h2 id="反思"><a href="#反思" class="headerlink" title="反思"></a>反思</h2><ol>
-<li>目前没有任何项目T_T </li>
-<li>学的内容不够深入,有很多想要实现的功能不能很好的实现,自己所写的代码实现起来总是和实际有出入,需要大量调试.</li>
-<li>之前学的东西不够牢固,纯手写代码很难实现,常常需查阅资料来写.</li>
-<li>感觉暑假学的ros要实现起来成本很大,基本只能模拟.</li>
-</ol>
-<h2 id="未来"><a href="#未来" class="headerlink" title="未来"></a>未来</h2><ul>
-<li>一直对物联网比较感兴趣,之前做的考核项目也用了esp8266.</li>
-<li>esp32的性能比esp8266的好,故开始学esp32(打算用micropython来写,顺便学一个新语言)</li>
-</ul>
-<h2 id="疑问"><a href="#疑问" class="headerlink" title="疑问"></a>疑问</h2><ul>
-<li>不知我以上的方向是否对以后打比赛帮助</li>
-</ul>
-]]></content>
-      <categories>
-        <category>学习</category>
-      </categories>
-      <tags>
-        <tag>总结</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>数控-铣床</title>
     <url>/2023/09/17/%E6%95%B0%E6%8E%A7-%E9%93%A3%E5%BA%8A/</url>
     <content><![CDATA[<h2 id="代码如下"><a href="#代码如下" class="headerlink" title="代码如下"></a>代码如下</h2><p><img src="/imag/%E6%95%B0%E6%8E%A7%E9%93%A3%E5%BA%8A-%E4%BB%A3%E7%A0%81.jpg"></p>
-<h4 id="是的，这个代码有问题"><a href="#是的，这个代码有问题" class="headerlink" title="是的，这个代码有问题"></a>是的，这个代码有问题</h4>]]></content>
+<h4 id="是的，这个代码有问题"><a href="#是的，这个代码有问题" class="headerlink" title="是的，这个代码有问题"></a>是的，这个代码有问题</h4><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       <tags>
         <tag>精工实习</tag>
       </tags>
@@ -580,7 +549,7 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 
   
   
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;object data=&quot;笔记1.pdf&quot; type=&quot;application/pdf&quot; width=&quot;100%&quot; height=&quot;840&quot;&gt;</span><br><span class="line"></span><br><span class="line">&lt;iframe src=&quot;笔记1.pdf&quot; width=&quot;100%&quot; height=&quot;840&quot; style=&quot;border: none;&quot;&gt;</span><br><span class="line"></span><br><span class="line">This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;/index.pdf&quot;&gt;Download PDF&lt;/a&gt;</span><br><span class="line"></span><br><span class="line">&lt;/iframe&gt;</span><br><span class="line"></span><br><span class="line">&lt;/object&gt;</span><br></pre></td></tr></table></figure>]]></content>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;object data=&quot;笔记1.pdf&quot; type=&quot;application/pdf&quot; width=&quot;100%&quot; height=&quot;840&quot;&gt;</span><br><span class="line"></span><br><span class="line">&lt;iframe src=&quot;笔记1.pdf&quot; width=&quot;100%&quot; height=&quot;840&quot; style=&quot;border: none;&quot;&gt;</span><br><span class="line"></span><br><span class="line">This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;/index.pdf&quot;&gt;Download PDF&lt;/a&gt;</span><br><span class="line"></span><br><span class="line">&lt;/iframe&gt;</span><br><span class="line"></span><br><span class="line">&lt;/object&gt;</span><br></pre></td></tr></table></figure><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       <tags>
         <tag>电工学</tag>
       </tags>
